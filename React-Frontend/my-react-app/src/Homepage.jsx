@@ -42,7 +42,7 @@ function Homepage() {
     return (
         <div class="homepage">
             {playerImage && <img src={playerImage} alt='image' />}
-            <h1>How well do you know NBA history?</h1>
+            <h1>NBA PPG Guesser</h1>
             <h2>Guess the random NBA players career PPG, you will take damage for how far off you are.<br /> See how many you can get right before you die!</h2>
             <div class="homepage-buttons">
                 <Link to="/game/prolific">
