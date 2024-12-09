@@ -1,0 +1,3149 @@
+{
+    "players": [
+        {
+            "id": 1630202,
+            "ppg": 8.2,
+            "timestamp": "2024-12-07T03:31:35.818444",
+            "name": "Payton Pritchard"
+        },
+        {
+            "id": 1641847,
+            "ppg": 0.0,
+            "timestamp": "2024-12-07T03:29:00.265856",
+            "name": "Andrew Funk"
+        },
+        {
+            "id": 1630284,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T03:29:00.267279",
+            "name": "Kevon Harris"
+        },
+        {
+            "id": 1630579,
+            "ppg": 2.5,
+            "timestamp": "2024-12-07T03:29:00.268755",
+            "name": "Jericho Sims"
+        },
+        {
+            "id": 1630181,
+            "ppg": 6.8,
+            "timestamp": "2024-12-07T03:29:00.272976",
+            "name": "R.J. Hampton"
+        },
+        {
+            "id": 1641713,
+            "ppg": 14.6,
+            "timestamp": "2024-12-07T03:35:50.641029",
+            "name": "GG Jackson"
+        },
+        {
+            "id": 1630178,
+            "ppg": 18.5,
+            "timestamp": "2024-12-07T03:42:52.406958",
+            "name": "Tyrese Maxey"
+        },
+        {
+            "id": 1629634,
+            "ppg": 10.4,
+            "timestamp": "2024-12-07T03:45:07.717600",
+            "name": "Brandon Clarke"
+        },
+        {
+            "id": 1630544,
+            "ppg": 9.4,
+            "timestamp": "2024-12-07T03:45:07.719726",
+            "name": "Tre Mann"
+        },
+        {
+            "id": 1629018,
+            "ppg": 14.0,
+            "timestamp": "2024-12-07T03:45:07.726508",
+            "name": "Gary Trent Jr."
+        },
+        {
+            "id": 1630700,
+            "ppg": 6.2,
+            "timestamp": "2024-12-07T10:29:30.053463",
+            "name": "Dyson Daniels"
+        },
+        {
+            "id": 203944,
+            "ppg": 19.1,
+            "timestamp": "2024-12-07T10:35:07.366628",
+            "name": "Julius Randle"
+        },
+        {
+            "id": 1630595,
+            "ppg": 20.4,
+            "timestamp": "2024-12-07T10:35:07.367745",
+            "name": "Cade Cunningham"
+        },
+        {
+            "id": 1641722,
+            "ppg": 8.6,
+            "timestamp": "2024-12-07T10:35:07.367917",
+            "name": "Jordan Hawkins"
+        },
+        {
+            "id": 1627747,
+            "ppg": 14.0,
+            "timestamp": "2024-12-07T13:32:00.430559",
+            "name": "Caris LeVert"
+        },
+        {
+            "id": 1641727,
+            "ppg": 4.2,
+            "timestamp": "2024-12-07T13:32:00.435884",
+            "name": "Dariq Whitehead"
+        },
+        {
+            "id": 1630608,
+            "ppg": 0.0,
+            "timestamp": "2024-12-07T13:40:30.001846",
+            "name": "Malcolm Cazalon"
+        },
+        {
+            "id": 1630622,
+            "ppg": 0.0,
+            "timestamp": "2024-12-07T13:40:30.002324",
+            "name": "Jalen Crutcher"
+        },
+        {
+            "id": 1630695,
+            "ppg": 3.6,
+            "timestamp": "2024-12-07T13:40:30.002713",
+            "name": "Micah Potter"
+        },
+        {
+            "id": 1629002,
+            "ppg": 5.9,
+            "timestamp": "2024-12-07T13:40:30.002964",
+            "name": "Chimezie Metu"
+        },
+        {
+            "id": 1630173,
+            "ppg": 7.7,
+            "timestamp": "2024-12-07T13:40:30.003278",
+            "name": "Precious Achiuwa"
+        },
+        {
+            "id": 1630591,
+            "ppg": 12.0,
+            "timestamp": "2024-12-07T13:40:30.003559",
+            "name": "Jalen Suggs"
+        },
+        {
+            "id": 201580,
+            "ppg": 7.6,
+            "timestamp": "2024-12-07T13:40:30.003911",
+            "name": "JaVale McGee"
+        },
+        {
+            "id": 1631298,
+            "ppg": 1.3,
+            "timestamp": "2024-12-07T13:40:30.004229",
+            "name": "Jack White"
+        },
+        {
+            "id": 1628389,
+            "ppg": 15.4,
+            "timestamp": "2024-12-07T13:40:30.004552",
+            "name": "Bam Adebayo"
+        },
+        {
+            "id": 1626153,
+            "ppg": 6.8,
+            "timestamp": "2024-12-07T13:40:30.004888",
+            "name": "Delon Wright"
+        },
+        {
+            "id": 1629647,
+            "ppg": 8.9,
+            "timestamp": "2024-12-07T13:40:30.005227",
+            "name": "Darius Bazley"
+        },
+        {
+            "id": 1641798,
+            "ppg": 1.5,
+            "timestamp": "2024-12-07T13:48:21.382747",
+            "name": "Jaylen Martin"
+        },
+        {
+            "id": 201565,
+            "ppg": 17.4,
+            "timestamp": "2024-12-07T13:50:11.622560",
+            "name": "Derrick Rose"
+        },
+        {
+            "id": 1629216,
+            "ppg": 7.1,
+            "timestamp": "2024-12-07T13:50:11.625673",
+            "name": "Gabe Vincent"
+        },
+        {
+            "id": 1627734,
+            "ppg": 15.9,
+            "timestamp": "2024-12-07T13:57:27.556496",
+            "name": "Domantas Sabonis"
+        },
+        {
+            "id": 1630527,
+            "ppg": 7.1,
+            "timestamp": "2024-12-07T13:59:25.739857",
+            "name": "Brandon Boston Jr."
+        },
+        {
+            "id": 1626164,
+            "ppg": 24.3,
+            "timestamp": "2024-12-07T13:59:25.741963",
+            "name": "Devin Booker"
+        },
+        {
+            "id": 1631323,
+            "ppg": 8.3,
+            "timestamp": "2024-12-07T13:59:25.747251",
+            "name": "Simone Fontecchio"
+        },
+        {
+            "id": 1626168,
+            "ppg": 7.6,
+            "timestamp": "2024-12-07T17:23:18.895666",
+            "name": "Trey Lyles"
+        },
+        {
+            "id": 1630583,
+            "ppg": 9.2,
+            "timestamp": "2024-12-07T17:25:29.921374",
+            "name": "Santi Aldama"
+        },
+        {
+            "id": 1631230,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T17:28:55.216459",
+            "name": "Dominick Barlow"
+        },
+        {
+            "id": 1631097,
+            "ppg": 16.1,
+            "timestamp": "2024-12-07T17:28:55.236065",
+            "name": "Bennedict Mathurin"
+        },
+        {
+            "id": 1630208,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T17:32:17.013725",
+            "name": "Nick Richards"
+        },
+        {
+            "id": 1630164,
+            "ppg": 9.1,
+            "timestamp": "2024-12-07T17:35:52.290217",
+            "name": "James Wiseman"
+        },
+        {
+            "id": 202331,
+            "ppg": 20.7,
+            "timestamp": "2024-12-07T17:35:52.295515",
+            "name": "Paul George"
+        },
+        {
+            "id": 1627853,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T17:45:26.310163",
+            "name": "Ryan Arcidiacono"
+        },
+        {
+            "id": 1630578,
+            "ppg": 15.3,
+            "timestamp": "2024-12-07T17:50:50.193138",
+            "name": "Alperen Sengun"
+        },
+        {
+            "id": 202704,
+            "ppg": 12.5,
+            "timestamp": "2024-12-07T17:56:15.305062",
+            "name": "Reggie Jackson"
+        },
+        {
+            "id": 1628385,
+            "ppg": 5.4,
+            "timestamp": "2024-12-07T18:07:22.024229",
+            "name": "Harry Giles III"
+        },
+        {
+            "id": 1631112,
+            "ppg": 1.4,
+            "timestamp": "2024-12-07T18:07:22.040622",
+            "name": "Kendall Brown"
+        },
+        {
+            "id": 1631159,
+            "ppg": 1.7,
+            "timestamp": "2024-12-07T18:13:10.844353",
+            "name": "Leonard Miller"
+        },
+        {
+            "id": 1641710,
+            "ppg": 5.5,
+            "timestamp": "2024-12-07T18:13:10.845626",
+            "name": "Anthony Black"
+        },
+        {
+            "id": 1628365,
+            "ppg": 11.1,
+            "timestamp": "2024-12-07T18:13:10.846653",
+            "name": "Markelle Fultz"
+        },
+        {
+            "id": 1641731,
+            "ppg": 9.2,
+            "timestamp": "2024-12-07T18:13:10.847618",
+            "name": "Bilal Coulibaly"
+        },
+        {
+            "id": 1630188,
+            "ppg": 8.5,
+            "timestamp": "2024-12-07T18:13:10.848634",
+            "name": "Jalen Smith"
+        },
+        {
+            "id": 203076,
+            "ppg": 24.2,
+            "timestamp": "2024-12-07T18:13:10.849787",
+            "name": "Anthony Davis"
+        },
+        {
+            "id": 1630186,
+            "ppg": 3.8,
+            "timestamp": "2024-12-07T18:13:10.850878",
+            "name": "Jahmi'us Ramsey"
+        },
+        {
+            "id": 1628372,
+            "ppg": 9.7,
+            "timestamp": "2024-12-07T18:13:10.852106",
+            "name": "Dennis Smith Jr."
+        },
+        {
+            "id": 1630264,
+            "ppg": 3.5,
+            "timestamp": "2024-12-07T18:13:10.853205",
+            "name": "Anthony Gill"
+        },
+        {
+            "id": 1629680,
+            "ppg": 4.8,
+            "timestamp": "2024-12-07T18:13:10.854308",
+            "name": "Matisse Thybulle"
+        },
+        {
+            "id": 1629611,
+            "ppg": 8.0,
+            "timestamp": "2024-12-07T18:13:10.855482",
+            "name": "Terance Mann"
+        },
+        {
+            "id": 1641724,
+            "ppg": 2.8,
+            "timestamp": "2024-12-07T18:18:42.122757",
+            "name": "Jett Howard"
+        },
+        {
+            "id": 1631119,
+            "ppg": 4.8,
+            "timestamp": "2024-12-07T18:18:42.124229",
+            "name": "Jaylin Williams"
+        },
+        {
+            "id": 1641708,
+            "ppg": 10.1,
+            "timestamp": "2024-12-07T18:18:42.125684",
+            "name": "Amen Thompson"
+        },
+        {
+            "id": 1629659,
+            "ppg": 9.7,
+            "timestamp": "2024-12-07T18:18:42.126958",
+            "name": "Talen Horton-Tucker"
+        },
+        {
+            "id": 203995,
+            "ppg": 7.0,
+            "timestamp": "2024-12-07T18:18:42.128288",
+            "name": "Vasilije Micic"
+        },
+        {
+            "id": 203084,
+            "ppg": 14.0,
+            "timestamp": "2024-12-07T18:18:42.129613",
+            "name": "Harrison Barnes"
+        },
+        {
+            "id": 1630643,
+            "ppg": 5.3,
+            "timestamp": "2024-12-07T18:18:42.130951",
+            "name": "Jay Huff"
+        },
+        {
+            "id": 202699,
+            "ppg": 16.2,
+            "timestamp": "2024-12-07T18:18:42.132347",
+            "name": "Tobias Harris"
+        },
+        {
+            "id": 1631212,
+            "ppg": 6.5,
+            "timestamp": "2024-12-07T18:18:42.133711",
+            "name": "Peyton Watson"
+        },
+        {
+            "id": 1631243,
+            "ppg": 3.2,
+            "timestamp": "2024-12-07T18:18:42.135119",
+            "name": "Mouhamed Gueye"
+        },
+        {
+            "id": 1629117,
+            "ppg": 4.4,
+            "timestamp": "2024-12-07T18:18:42.136537",
+            "name": "Wenyen Gabriel"
+        },
+        {
+            "id": 1630696,
+            "ppg": 3.5,
+            "timestamp": "2024-12-07T18:24:17.012975",
+            "name": "Dru Smith"
+        },
+        {
+            "id": 1626157,
+            "ppg": 23.0,
+            "timestamp": "2024-12-07T18:24:17.013768",
+            "name": "Karl-Anthony Towns"
+        },
+        {
+            "id": 1626171,
+            "ppg": 11.8,
+            "timestamp": "2024-12-07T18:24:17.014571",
+            "name": "Bobby Portis"
+        },
+        {
+            "id": 1628378,
+            "ppg": 24.8,
+            "timestamp": "2024-12-07T18:24:17.015318",
+            "name": "Donovan Mitchell"
+        },
+        {
+            "id": 1629656,
+            "ppg": 8.6,
+            "timestamp": "2024-12-07T18:24:17.016070",
+            "name": "Quentin Grimes"
+        },
+        {
+            "id": 1629130,
+            "ppg": 11.3,
+            "timestamp": "2024-12-07T18:24:17.016814",
+            "name": "Duncan Robinson"
+        },
+        {
+            "id": 203081,
+            "ppg": 25.1,
+            "timestamp": "2024-12-07T18:24:17.017581",
+            "name": "Damian Lillard"
+        },
+        {
+            "id": 1631220,
+            "ppg": 1.6,
+            "timestamp": "2024-12-07T18:24:17.018447",
+            "name": "Dereon Seabron"
+        },
+        {
+            "id": 1628404,
+            "ppg": 10.0,
+            "timestamp": "2024-12-07T18:24:17.019241",
+            "name": "Josh Hart"
+        },
+        {
+            "id": 1630311,
+            "ppg": 1.2,
+            "timestamp": "2024-12-07T18:24:17.020030",
+            "name": "Pat Spencer"
+        },
+        {
+            "id": 1630649,
+            "ppg": 4.3,
+            "timestamp": "2024-12-07T18:24:17.020843",
+            "name": "Stanley Umude"
+        },
+        {
+            "id": 1631107,
+            "ppg": 7.2,
+            "timestamp": "2024-12-07T18:29:50.841783",
+            "name": "Nikola Jovic"
+        },
+        {
+            "id": 1627732,
+            "ppg": 13.9,
+            "timestamp": "2024-12-07T18:29:50.843548",
+            "name": "Ben Simmons"
+        },
+        {
+            "id": 1629875,
+            "ppg": 3.5,
+            "timestamp": "2024-12-07T18:29:50.845807",
+            "name": "Xavier Moon"
+        },
+        {
+            "id": 1630537,
+            "ppg": 7.8,
+            "timestamp": "2024-12-07T18:29:50.847412",
+            "name": "Chris Duarte"
+        },
+        {
+            "id": 1631246,
+            "ppg": 8.1,
+            "timestamp": "2024-12-07T18:29:50.849041",
+            "name": "Vince Williams Jr."
+        },
+        {
+            "id": 1630702,
+            "ppg": 7.7,
+            "timestamp": "2024-12-07T18:29:50.850759",
+            "name": "Jaden Hardy"
+        },
+        {
+            "id": 1630231,
+            "ppg": 8.8,
+            "timestamp": "2024-12-07T18:29:50.852665",
+            "name": "KJ Martin"
+        },
+        {
+            "id": 1641871,
+            "ppg": 8.0,
+            "timestamp": "2024-12-07T18:29:50.854308",
+            "name": "Duop Reath"
+        },
+        {
+            "id": 203083,
+            "ppg": 12.6,
+            "timestamp": "2024-12-07T18:29:50.855986",
+            "name": "Andre Drummond"
+        },
+        {
+            "id": 201152,
+            "ppg": 12.1,
+            "timestamp": "2024-12-07T18:29:50.857701",
+            "name": "Thaddeus Young"
+        },
+        {
+            "id": 1627788,
+            "ppg": 6.8,
+            "timestamp": "2024-12-07T18:31:00.726479",
+            "name": "Furkan Korkmaz"
+        },
+        {
+            "id": 1629020,
+            "ppg": 6.1,
+            "timestamp": "2024-12-07T18:31:00.728363",
+            "name": "Jarred Vanderbilt"
+        },
+        {
+            "id": 1631218,
+            "ppg": 7.9,
+            "timestamp": "2024-12-07T18:31:00.730397",
+            "name": "Trayce Jackson-Davis"
+        },
+        {
+            "id": 1630162,
+            "ppg": 23.1,
+            "timestamp": "2024-12-07T18:31:00.732249",
+            "name": "Anthony Edwards"
+        },
+        {
+            "id": 1629014,
+            "ppg": 14.2,
+            "timestamp": "2024-12-07T18:31:00.734089",
+            "name": "Anfernee Simons"
+        },
+        {
+            "id": 1630204,
+            "ppg": 3.8,
+            "timestamp": "2024-12-07T18:31:00.736036",
+            "name": "Ashton Hagans"
+        },
+        {
+            "id": 1631254,
+            "ppg": 4.8,
+            "timestamp": "2024-12-07T18:31:00.737826",
+            "name": "Kenneth Lofton Jr."
+        },
+        {
+            "id": 1631115,
+            "ppg": 3.2,
+            "timestamp": "2024-12-07T18:31:00.739914",
+            "name": "Orlando Robinson"
+        },
+        {
+            "id": 203932,
+            "ppg": 13.5,
+            "timestamp": "2024-12-07T18:31:00.741828",
+            "name": "Aaron Gordon"
+        },
+        {
+            "id": 202330,
+            "ppg": 15.2,
+            "timestamp": "2024-12-07T18:31:00.743785",
+            "name": "Gordon Hayward"
+        },
+        {
+            "id": 202687,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T18:36:19.590760",
+            "name": "Bismack Biyombo"
+        },
+        {
+            "id": 1641764,
+            "ppg": 8.9,
+            "timestamp": "2024-12-07T18:36:19.601472",
+            "name": "Brandin Podziemski"
+        },
+        {
+            "id": 1631133,
+            "ppg": 6.2,
+            "timestamp": "2024-12-07T18:36:19.603615",
+            "name": "Jabari Walker"
+        },
+        {
+            "id": 1630200,
+            "ppg": 8.4,
+            "timestamp": "2024-12-07T18:36:19.605616",
+            "name": "Tre Jones"
+        },
+        {
+            "id": 203200,
+            "ppg": 8.0,
+            "timestamp": "2024-12-07T18:36:19.607618",
+            "name": "Justin Holiday"
+        },
+        {
+            "id": 1631311,
+            "ppg": 4.1,
+            "timestamp": "2024-12-07T18:36:19.609639",
+            "name": "Lester Quinones"
+        },
+        {
+            "id": 1631222,
+            "ppg": 7.4,
+            "timestamp": "2024-12-07T18:36:19.612056",
+            "name": "Jake LaRavia"
+        },
+        {
+            "id": 1630590,
+            "ppg": 10.7,
+            "timestamp": "2024-12-07T18:36:19.614477",
+            "name": "Scotty Pippen Jr."
+        },
+        {
+            "id": 1641926,
+            "ppg": 5.5,
+            "timestamp": "2024-12-07T18:36:19.616569",
+            "name": "Dexter Dennis"
+        },
+        {
+            "id": 1628420,
+            "ppg": 9.8,
+            "timestamp": "2024-12-07T18:36:19.618709",
+            "name": "Monte Morris"
+        },
+        {
+            "id": 1631103,
+            "ppg": 9.3,
+            "timestamp": "2024-12-07T18:36:19.620896",
+            "name": "Malaki Branham"
+        },
+        {
+            "id": 202693,
+            "ppg": 10.3,
+            "timestamp": "2024-12-07T18:41:39.483633",
+            "name": "Markieff Morris"
+        },
+        {
+            "id": 1630548,
+            "ppg": 6.3,
+            "timestamp": "2024-12-07T18:41:39.486517",
+            "name": "Johnny Juzang"
+        },
+        {
+            "id": 1630557,
+            "ppg": 10.9,
+            "timestamp": "2024-12-07T18:41:39.488749",
+            "name": "Corey Kispert"
+        },
+        {
+            "id": 1631204,
+            "ppg": 7.9,
+            "timestamp": "2024-12-07T18:41:39.491032",
+            "name": "Marcus Sasser"
+        },
+        {
+            "id": 1629731,
+            "ppg": 5.2,
+            "timestamp": "2024-12-07T18:41:39.493322",
+            "name": "Dean Wade"
+        },
+        {
+            "id": 201939,
+            "ppg": 24.7,
+            "timestamp": "2024-12-07T18:41:39.495664",
+            "name": "Stephen Curry"
+        },
+        {
+            "id": 1630610,
+            "ppg": 4.3,
+            "timestamp": "2024-12-07T18:41:39.497885",
+            "name": "DeJon Jarreau"
+        },
+        {
+            "id": 1629750,
+            "ppg": 5.5,
+            "timestamp": "2024-12-07T18:41:39.500149",
+            "name": "Javonte Green"
+        },
+        {
+            "id": 1631367,
+            "ppg": 4.2,
+            "timestamp": "2024-12-07T18:41:39.502485",
+            "name": "Jacob Gilyard"
+        },
+        {
+            "id": 1628415,
+            "ppg": 14.1,
+            "timestamp": "2024-12-07T18:41:39.504773",
+            "name": "Dillon Brooks"
+        },
+        {
+            "id": 1641877,
+            "ppg": 1.3,
+            "timestamp": "2024-12-07T18:46:58.835785",
+            "name": "Nathan Mensah"
+        },
+        {
+            "id": 1631094,
+            "ppg": 21.6,
+            "timestamp": "2024-12-07T18:46:58.838530",
+            "name": "Paolo Banchero"
+        },
+        {
+            "id": 1641712,
+            "ppg": 3.8,
+            "timestamp": "2024-12-07T18:46:58.841096",
+            "name": "Rayan Rupert"
+        },
+        {
+            "id": 1631172,
+            "ppg": 4.3,
+            "timestamp": "2024-12-07T18:46:58.843515",
+            "name": "Ousmane Dieng"
+        },
+        {
+            "id": 1630572,
+            "ppg": 4.7,
+            "timestamp": "2024-12-07T18:46:58.846558",
+            "name": "Sandro Mamukelashvili"
+        },
+        {
+            "id": 1631105,
+            "ppg": 11.0,
+            "timestamp": "2024-12-07T18:46:58.849617",
+            "name": "Jalen Duren"
+        },
+        {
+            "id": 1630561,
+            "ppg": 4.4,
+            "timestamp": "2024-12-07T18:46:58.852078",
+            "name": "David Duke Jr."
+        },
+        {
+            "id": 203954,
+            "ppg": 27.8,
+            "timestamp": "2024-12-07T18:46:58.854611",
+            "name": "Joel Embiid"
+        },
+        {
+            "id": 1628370,
+            "ppg": 11.8,
+            "timestamp": "2024-12-07T18:46:58.857099",
+            "name": "Malik Monk"
+        },
+        {
+            "id": 1630207,
+            "ppg": 1.9,
+            "timestamp": "2024-12-07T18:46:58.859979",
+            "name": "Nate Hinton"
+        },
+        {
+            "id": 1628984,
+            "ppg": 11.1,
+            "timestamp": "2024-12-07T18:52:16.296485",
+            "name": "Devonte' Graham"
+        },
+        {
+            "id": 1627814,
+            "ppg": 8.2,
+            "timestamp": "2024-12-07T18:52:16.299492",
+            "name": "Damion Lee"
+        },
+        {
+            "id": 1631209,
+            "ppg": 5.5,
+            "timestamp": "2024-12-07T18:52:16.302104",
+            "name": "Isaiah Wong"
+        },
+        {
+            "id": 1630322,
+            "ppg": 5.4,
+            "timestamp": "2024-12-07T18:52:16.305077",
+            "name": "Lindy Waters III"
+        },
+        {
+            "id": 203488,
+            "ppg": 5.9,
+            "timestamp": "2024-12-07T18:52:16.307760",
+            "name": "Mike Muscala"
+        },
+        {
+            "id": 1630167,
+            "ppg": 8.1,
+            "timestamp": "2024-12-07T18:52:16.310344",
+            "name": "Obi Toppin"
+        },
+        {
+            "id": 203552,
+            "ppg": 10.2,
+            "timestamp": "2024-12-07T18:52:16.312905",
+            "name": "Seth Curry"
+        },
+        {
+            "id": 1630169,
+            "ppg": 17.3,
+            "timestamp": "2024-12-07T18:52:16.315567",
+            "name": "Tyrese Haliburton"
+        },
+        {
+            "id": 1630568,
+            "ppg": 5.3,
+            "timestamp": "2024-12-07T18:52:16.318335",
+            "name": "Luka Garza"
+        },
+        {
+            "id": 1631245,
+            "ppg": 6.0,
+            "timestamp": "2024-12-07T18:52:16.321068",
+            "name": "Quenton Jackson"
+        },
+        {
+            "id": 1641733,
+            "ppg": 5.4,
+            "timestamp": "2024-12-07T18:52:16.323742",
+            "name": "Nick Smith Jr."
+        },
+        {
+            "id": 1630163,
+            "ppg": 21.0,
+            "timestamp": "2024-12-07T18:57:28.492137",
+            "name": "LaMelo Ball"
+        },
+        {
+            "id": 204001,
+            "ppg": 19.7,
+            "timestamp": "2024-12-07T18:57:28.494549",
+            "name": "Kristaps Porzingis"
+        },
+        {
+            "id": 1631216,
+            "ppg": 3.7,
+            "timestamp": "2024-12-07T18:57:28.496747",
+            "name": "Caleb Houstan"
+        },
+        {
+            "id": 1630604,
+            "ppg": 1.4,
+            "timestamp": "2024-12-07T18:57:28.499105",
+            "name": "E.J. Liddell"
+        },
+        {
+            "id": 1641753,
+            "ppg": 1.2,
+            "timestamp": "2024-12-07T18:57:28.501209",
+            "name": "Chris Livingston"
+        },
+        {
+            "id": 202738,
+            "ppg": 17.5,
+            "timestamp": "2024-12-07T18:57:28.503413",
+            "name": "Isaiah Thomas"
+        },
+        {
+            "id": 1630177,
+            "ppg": 7.8,
+            "timestamp": "2024-12-07T19:12:30.257784",
+            "name": "Theo Maledon"
+        },
+        {
+            "id": 1631114,
+            "ppg": 17.2,
+            "timestamp": "2024-12-07T19:12:30.269265",
+            "name": "Jalen Williams"
+        },
+        {
+            "id": 1630526,
+            "ppg": 6.1,
+            "timestamp": "2024-12-07T19:12:30.272144",
+            "name": "Jeremiah Robinson-Earl"
+        },
+        {
+            "id": 203933,
+            "ppg": 14.3,
+            "timestamp": "2024-12-07T19:12:30.275963",
+            "name": "T.J. Warren"
+        },
+        {
+            "id": 1627749,
+            "ppg": 15.4,
+            "timestamp": "2024-12-07T19:12:30.279155",
+            "name": "Dejounte Murray"
+        },
+        {
+            "id": 1631217,
+            "ppg": 2.9,
+            "timestamp": "2024-12-07T19:12:30.282017",
+            "name": "Moussa Diabate"
+        },
+        {
+            "id": 203952,
+            "ppg": 18.5,
+            "timestamp": "2024-12-07T19:12:30.284969",
+            "name": "Andrew Wiggins"
+        },
+        {
+            "id": 1631109,
+            "ppg": 10.0,
+            "timestamp": "2024-12-07T19:12:30.287889",
+            "name": "Mark Williams"
+        },
+        {
+            "id": 1630168,
+            "ppg": 8.7,
+            "timestamp": "2024-12-07T19:12:30.290717",
+            "name": "Onyeka Okongwu"
+        },
+        {
+            "id": 203497,
+            "ppg": 12.6,
+            "timestamp": "2024-12-07T19:12:30.293680",
+            "name": "Rudy Gobert"
+        },
+        {
+            "id": 1629618,
+            "ppg": 1.4,
+            "timestamp": "2024-12-07T19:17:48.213788",
+            "name": "Jalen Pickett"
+        },
+        {
+            "id": 202684,
+            "ppg": 8.6,
+            "timestamp": "2024-12-07T19:17:48.215374",
+            "name": "Tristan Thompson"
+        },
+        {
+            "id": 1629637,
+            "ppg": 6.8,
+            "timestamp": "2024-12-07T19:17:48.216932",
+            "name": "Jaxson Hayes"
+        },
+        {
+            "id": 1627885,
+            "ppg": 5.2,
+            "timestamp": "2024-12-07T19:17:48.218547",
+            "name": "Shaquille Harrison"
+        },
+        {
+            "id": 203957,
+            "ppg": 6.1,
+            "timestamp": "2024-12-07T19:17:48.220056",
+            "name": "Dante Exum"
+        },
+        {
+            "id": 203496,
+            "ppg": 10.8,
+            "timestamp": "2024-12-07T19:17:48.221622",
+            "name": "Robert Covington"
+        },
+        {
+            "id": 1628971,
+            "ppg": 8.9,
+            "timestamp": "2024-12-07T19:17:48.223221",
+            "name": "Bruce Brown"
+        },
+        {
+            "id": 1631288,
+            "ppg": 4.6,
+            "timestamp": "2024-12-07T19:17:48.225123",
+            "name": "Jamal Cain"
+        },
+        {
+            "id": 1630641,
+            "ppg": 1.5,
+            "timestamp": "2024-12-07T19:17:48.226849",
+            "name": "Ibou Badji"
+        },
+        {
+            "id": 1626196,
+            "ppg": 11.5,
+            "timestamp": "2024-12-07T19:23:04.277514",
+            "name": "Josh Richardson"
+        },
+        {
+            "id": 1630227,
+            "ppg": 3.3,
+            "timestamp": "2024-12-07T19:23:04.279139",
+            "name": "Daishen Nix"
+        },
+        {
+            "id": 1641806,
+            "ppg": 2.0,
+            "timestamp": "2024-12-07T19:23:04.280852",
+            "name": "Markquis Nowell"
+        },
+        {
+            "id": 201599,
+            "ppg": 8.7,
+            "timestamp": "2024-12-07T19:23:04.282411",
+            "name": "DeAndre Jordan"
+        },
+        {
+            "id": 203937,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T19:23:04.284033",
+            "name": "Kyle Anderson"
+        },
+        {
+            "id": 1629232,
+            "ppg": 0.0,
+            "timestamp": "2024-12-07T19:23:04.285795",
+            "name": "Kaiser Gates"
+        },
+        {
+            "id": 1629008,
+            "ppg": 15.9,
+            "timestamp": "2024-12-07T19:23:04.287868",
+            "name": "Michael Porter Jr."
+        },
+        {
+            "id": 1631167,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T19:23:04.289547",
+            "name": "Izaiah Brockington"
+        },
+        {
+            "id": 1631095,
+            "ppg": 13.0,
+            "timestamp": "2024-12-07T19:28:21.194486",
+            "name": "Jabari Smith Jr."
+        },
+        {
+            "id": 1630194,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T19:28:21.198022",
+            "name": "Paul Reed"
+        },
+        {
+            "id": 1628972,
+            "ppg": 6.2,
+            "timestamp": "2024-12-07T19:28:21.201703",
+            "name": "Troy Brown Jr."
+        },
+        {
+            "id": 1630543,
+            "ppg": 7.1,
+            "timestamp": "2024-12-07T19:28:21.205715",
+            "name": "Isaiah Jackson"
+        },
+        {
+            "id": 1641775,
+            "ppg": 1.4,
+            "timestamp": "2024-12-07T19:28:21.209402",
+            "name": "Jordan Walsh"
+        },
+        {
+            "id": 202681,
+            "ppg": 23.6,
+            "timestamp": "2024-12-07T19:28:21.212763",
+            "name": "Kyrie Irving"
+        },
+        {
+            "id": 1631257,
+            "ppg": 1.4,
+            "timestamp": "2024-12-07T19:28:21.216121",
+            "name": "Jermaine Samuels Jr."
+        },
+        {
+            "id": 1628381,
+            "ppg": 15.8,
+            "timestamp": "2024-12-07T19:28:21.219544",
+            "name": "John Collins"
+        },
+        {
+            "id": 1627826,
+            "ppg": 9.4,
+            "timestamp": "2024-12-07T19:28:21.223445",
+            "name": "Ivica Zubac"
+        },
+        {
+            "id": 1630688,
+            "ppg": 3.3,
+            "timestamp": "2024-12-07T19:28:21.227027",
+            "name": "Ish Wainright"
+        },
+        {
+            "id": 1630217,
+            "ppg": 17.2,
+            "timestamp": "2024-12-07T19:33:36.921229",
+            "name": "Desmond Bane"
+        },
+        {
+            "id": 1629006,
+            "ppg": 6.3,
+            "timestamp": "2024-12-07T19:33:36.924798",
+            "name": "Josh Okogie"
+        },
+        {
+            "id": 1641748,
+            "ppg": 2.5,
+            "timestamp": "2024-12-07T19:33:36.928749",
+            "name": "Andre Jackson Jr."
+        },
+        {
+            "id": 1626145,
+            "ppg": 7.5,
+            "timestamp": "2024-12-07T19:33:36.932770",
+            "name": "Tyus Jones"
+        },
+        {
+            "id": 1628964,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T19:33:36.936696",
+            "name": "Mo Bamba"
+        },
+        {
+            "id": 1629684,
+            "ppg": 7.2,
+            "timestamp": "2024-12-07T19:33:36.940583",
+            "name": "Grant Williams"
+        },
+        {
+            "id": 1641787,
+            "ppg": 5.9,
+            "timestamp": "2024-12-07T19:33:36.944085",
+            "name": "Tosan Evbuomwan"
+        },
+        {
+            "id": 1629717,
+            "ppg": 6.6,
+            "timestamp": "2024-12-07T19:33:36.947618",
+            "name": "Armoni Brooks"
+        },
+        {
+            "id": 1628382,
+            "ppg": 6.0,
+            "timestamp": "2024-12-07T19:38:58.554987",
+            "name": "Justin Jackson"
+        },
+        {
+            "id": 1641705,
+            "ppg": 21.9,
+            "timestamp": "2024-12-07T19:38:58.558721",
+            "name": "Victor Wembanyama"
+        },
+        {
+            "id": 1626172,
+            "ppg": 5.0,
+            "timestamp": "2024-12-07T19:38:58.562385",
+            "name": "Kevon Looney"
+        },
+        {
+            "id": 1631303,
+            "ppg": 2.0,
+            "timestamp": "2024-12-07T19:38:58.565994",
+            "name": "Justin Minaya"
+        },
+        {
+            "id": 1629001,
+            "ppg": 9.1,
+            "timestamp": "2024-12-07T19:38:58.569666",
+            "name": "De'Anthony Melton"
+        },
+        {
+            "id": 1626220,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T19:38:58.573319",
+            "name": "Royce O'Neale"
+        },
+        {
+            "id": 201587,
+            "ppg": 10.2,
+            "timestamp": "2024-12-07T19:38:58.577042",
+            "name": "Nicolas Batum"
+        },
+        {
+            "id": 1631102,
+            "ppg": 3.7,
+            "timestamp": "2024-12-07T19:38:58.580722",
+            "name": "TyTy Washington Jr."
+        },
+        {
+            "id": 1641766,
+            "ppg": 3.5,
+            "timestamp": "2024-12-07T19:38:58.584444",
+            "name": "Adama Sanogo"
+        },
+        {
+            "id": 1629023,
+            "ppg": 12.9,
+            "timestamp": "2024-12-07T19:38:58.588656",
+            "name": "P.J. Washington"
+        },
+        {
+            "id": 1642013,
+            "ppg": 2.7,
+            "timestamp": "2024-12-07T19:44:15.993305",
+            "name": "Malik Williams"
+        },
+        {
+            "id": 201569,
+            "ppg": 15.5,
+            "timestamp": "2024-12-07T19:44:15.997413",
+            "name": "Eric Gordon"
+        },
+        {
+            "id": 1641726,
+            "ppg": 8.8,
+            "timestamp": "2024-12-07T19:44:16.001230",
+            "name": "Dereck Lively II"
+        },
+        {
+            "id": 101108,
+            "ppg": 17.4,
+            "timestamp": "2024-12-07T19:44:16.006342",
+            "name": "Chris Paul"
+        },
+        {
+            "id": 202685,
+            "ppg": 13.3,
+            "timestamp": "2024-12-07T19:44:16.010429",
+            "name": "Jonas Valanciunas"
+        },
+        {
+            "id": 1627863,
+            "ppg": 7.3,
+            "timestamp": "2024-12-07T19:44:16.014681",
+            "name": "Danuel House Jr."
+        },
+        {
+            "id": 1630587,
+            "ppg": 6.2,
+            "timestamp": "2024-12-07T19:44:16.018759",
+            "name": "Isaiah Livers"
+        },
+        {
+            "id": 1628449,
+            "ppg": 8.8,
+            "timestamp": "2024-12-07T19:44:16.023819",
+            "name": "Chris Boucher"
+        },
+        {
+            "id": 1629669,
+            "ppg": 8.9,
+            "timestamp": "2024-12-07T19:49:27.943473",
+            "name": "Jaylen Nowell"
+        },
+        {
+            "id": 1630197,
+            "ppg": 7.5,
+            "timestamp": "2024-12-07T19:49:27.947778",
+            "name": "Aleksej Pokusevski"
+        },
+        {
+            "id": 1628978,
+            "ppg": 10.5,
+            "timestamp": "2024-12-07T19:49:27.951899",
+            "name": "Donte DiVincenzo"
+        },
+        {
+            "id": 203648,
+            "ppg": 2.4,
+            "timestamp": "2024-12-07T19:49:27.955942",
+            "name": "Thanasis Antetokounmpo"
+        },
+        {
+            "id": 1629022,
+            "ppg": 9.8,
+            "timestamp": "2024-12-07T19:49:27.960402",
+            "name": "Lonnie Walker IV"
+        },
+        {
+            "id": 1629599,
+            "ppg": 6.2,
+            "timestamp": "2024-12-07T19:49:27.964327",
+            "name": "Amir Coffey"
+        },
+        {
+            "id": 203484,
+            "ppg": 11.3,
+            "timestamp": "2024-12-07T19:54:39.273175",
+            "name": "Kentavious Caldwell-Pope"
+        },
+        {
+            "id": 1630259,
+            "ppg": 2.0,
+            "timestamp": "2024-12-07T19:54:39.278093",
+            "name": "Jordan Ford"
+        },
+        {
+            "id": 203109,
+            "ppg": 9.3,
+            "timestamp": "2024-12-07T19:54:39.283414",
+            "name": "Jae Crowder"
+        },
+        {
+            "id": 203458,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T19:54:39.288338",
+            "name": "Alex Len"
+        },
+        {
+            "id": 1628366,
+            "ppg": 11.7,
+            "timestamp": "2024-12-07T19:54:39.292652",
+            "name": "Lonzo Ball"
+        },
+        {
+            "id": 1630245,
+            "ppg": 10.1,
+            "timestamp": "2024-12-07T19:59:46.472144",
+            "name": "Ayo Dosunmu"
+        },
+        {
+            "id": 1629623,
+            "ppg": 4.7,
+            "timestamp": "2024-12-07T19:59:46.475283",
+            "name": "Lindell Wigginton"
+        },
+        {
+            "id": 1630606,
+            "ppg": 2.8,
+            "timestamp": "2024-12-07T19:59:46.479647",
+            "name": "Javonte Smart"
+        },
+        {
+            "id": 201145,
+            "ppg": 12.0,
+            "timestamp": "2024-12-07T19:59:46.483102",
+            "name": "Jeff Green"
+        },
+        {
+            "id": 203897,
+            "ppg": 20.5,
+            "timestamp": "2024-12-07T20:04:52.601728",
+            "name": "Zach LaVine"
+        },
+        {
+            "id": 203468,
+            "ppg": 19.5,
+            "timestamp": "2024-12-07T20:04:52.609177",
+            "name": "CJ McCollum"
+        },
+        {
+            "id": 1628963,
+            "ppg": 12.5,
+            "timestamp": "2024-12-07T20:04:52.613379",
+            "name": "Marvin Bagley III"
+        },
+        {
+            "id": 1628373,
+            "ppg": 4.8,
+            "timestamp": "2024-12-07T20:04:52.617567",
+            "name": "Frank Ntilikina"
+        },
+        {
+            "id": 1630539,
+            "ppg": 2.6,
+            "timestamp": "2024-12-07T20:10:06.788418",
+            "name": "Kai Jones"
+        },
+        {
+            "id": 1641774,
+            "ppg": 8.5,
+            "timestamp": "2024-12-07T20:10:06.793380",
+            "name": "Tristan Vukcevic"
+        },
+        {
+            "id": 203991,
+            "ppg": 12.2,
+            "timestamp": "2024-12-07T20:10:06.798094",
+            "name": "Clint Capela"
+        },
+        {
+            "id": 1630564,
+            "ppg": 9.8,
+            "timestamp": "2024-12-07T20:10:06.802741",
+            "name": "RaiQuan Gray"
+        },
+        {
+            "id": 1641734,
+            "ppg": 2.7,
+            "timestamp": "2024-12-07T20:10:06.807557",
+            "name": "Emoni Bates"
+        },
+        {
+            "id": 1627741,
+            "ppg": 15.5,
+            "timestamp": "2024-12-07T20:10:06.812490",
+            "name": "Buddy Hield"
+        },
+        {
+            "id": 1641723,
+            "ppg": 5.0,
+            "timestamp": "2024-12-07T20:10:06.817222",
+            "name": "Kobe Bufkin"
+        },
+        {
+            "id": 1630201,
+            "ppg": 5.5,
+            "timestamp": "2024-12-07T20:15:17.654894",
+            "name": "Malachi Flynn"
+        },
+        {
+            "id": 1630198,
+            "ppg": 7.0,
+            "timestamp": "2024-12-07T20:15:17.660304",
+            "name": "Isaiah Joe"
+        },
+        {
+            "id": 1630570,
+            "ppg": 7.4,
+            "timestamp": "2024-12-07T20:15:17.664662",
+            "name": "Trendon Watford"
+        },
+        {
+            "id": 1631250,
+            "ppg": 0.4,
+            "timestamp": "2024-12-07T20:15:17.669293",
+            "name": "Pete Nance"
+        },
+        {
+            "id": 1641711,
+            "ppg": 10.9,
+            "timestamp": "2024-12-07T20:15:17.673912",
+            "name": "Gradey Dick"
+        },
+        {
+            "id": 1629636,
+            "ppg": 18.6,
+            "timestamp": "2024-12-07T20:15:17.678291",
+            "name": "Darius Garland"
+        },
+        {
+            "id": 1631173,
+            "ppg": 3.2,
+            "timestamp": "2024-12-07T20:20:32.588486",
+            "name": "Terquavion Smith"
+        },
+        {
+            "id": 1631376,
+            "ppg": 0.0,
+            "timestamp": "2024-12-07T20:20:32.593425",
+            "name": "Dmytro Skapintsev"
+        },
+        {
+            "id": 1630586,
+            "ppg": 2.6,
+            "timestamp": "2024-12-07T20:20:32.598583",
+            "name": "Usman Garuba"
+        },
+        {
+            "id": 200768,
+            "ppg": 14.1,
+            "timestamp": "2024-12-07T20:20:32.603608",
+            "name": "Kyle Lowry"
+        },
+        {
+            "id": 1641749,
+            "ppg": 1.2,
+            "timestamp": "2024-12-07T20:20:32.608743",
+            "name": "Keyontae Johnson"
+        },
+        {
+            "id": 201950,
+            "ppg": 16.1,
+            "timestamp": "2024-12-07T20:20:32.613972",
+            "name": "Jrue Holiday"
+        },
+        {
+            "id": 1630222,
+            "ppg": 4.6,
+            "timestamp": "2024-12-07T20:20:32.618558",
+            "name": "Mason Jones"
+        },
+        {
+            "id": 201142,
+            "ppg": 27.2,
+            "timestamp": "2024-12-07T20:25:56.841045",
+            "name": "Kevin Durant"
+        },
+        {
+            "id": 1641718,
+            "ppg": 13.5,
+            "timestamp": "2024-12-07T20:25:56.845646",
+            "name": "Keyonte George"
+        },
+        {
+            "id": 1629631,
+            "ppg": 14.4,
+            "timestamp": "2024-12-07T20:25:56.850956",
+            "name": "De'Andre Hunter"
+        },
+        {
+            "id": 1631199,
+            "ppg": 2.0,
+            "timestamp": "2024-12-07T20:25:56.856164",
+            "name": "Ron Harper Jr."
+        },
+        {
+            "id": 1628977,
+            "ppg": 8.6,
+            "timestamp": "2024-12-07T20:25:56.860847",
+            "name": "Hamidou Diallo"
+        },
+        {
+            "id": 1628371,
+            "ppg": 8.2,
+            "timestamp": "2024-12-07T20:31:25.639884",
+            "name": "Jonathan Isaac"
+        },
+        {
+            "id": 1631338,
+            "ppg": 2.4,
+            "timestamp": "2024-12-07T20:31:25.644917",
+            "name": "Mouhamadou Gueye"
+        },
+        {
+            "id": 1631098,
+            "ppg": 3.8,
+            "timestamp": "2024-12-07T20:31:25.649938",
+            "name": "Johnny Davis"
+        },
+        {
+            "id": 1630540,
+            "ppg": 5.6,
+            "timestamp": "2024-12-07T20:31:25.654765",
+            "name": "Miles McBride"
+        },
+        {
+            "id": 1629629,
+            "ppg": 8.9,
+            "timestamp": "2024-12-07T20:31:25.660279",
+            "name": "Cam Reddish"
+        },
+        {
+            "id": 1629011,
+            "ppg": 8.0,
+            "timestamp": "2024-12-07T20:31:25.665919",
+            "name": "Mitchell Robinson"
+        },
+        {
+            "id": 1626246,
+            "ppg": 5.5,
+            "timestamp": "2024-12-07T20:31:25.672059",
+            "name": "Boban Marjanovic"
+        },
+        {
+            "id": 1631121,
+            "ppg": 5.2,
+            "timestamp": "2024-12-07T20:36:34.779174",
+            "name": "Bryce McGowens"
+        },
+        {
+            "id": 1641771,
+            "ppg": 0.7,
+            "timestamp": "2024-12-07T20:36:34.785695",
+            "name": "Jalen Slawson"
+        },
+        {
+            "id": 1630596,
+            "ppg": 16.0,
+            "timestamp": "2024-12-07T20:36:34.790856",
+            "name": "Evan Mobley"
+        },
+        {
+            "id": 1631260,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T20:36:34.795739",
+            "name": "AJ Green"
+        },
+        {
+            "id": 1629655,
+            "ppg": 9.0,
+            "timestamp": "2024-12-07T20:36:34.800557",
+            "name": "Daniel Gafford"
+        },
+        {
+            "id": 1630613,
+            "ppg": 9.1,
+            "timestamp": "2024-12-07T20:36:34.806652",
+            "name": "Duane Washington Jr."
+        },
+        {
+            "id": 1629007,
+            "ppg": 3.7,
+            "timestamp": "2024-12-07T20:41:47.913971",
+            "name": "Jontay Porter"
+        },
+        {
+            "id": 1630530,
+            "ppg": 12.0,
+            "timestamp": "2024-12-07T20:41:47.919105",
+            "name": "Trey Murphy III"
+        },
+        {
+            "id": 1628379,
+            "ppg": 9.9,
+            "timestamp": "2024-12-07T20:41:47.924580",
+            "name": "Luke Kennard"
+        },
+        {
+            "id": 1630196,
+            "ppg": 1.0,
+            "timestamp": "2024-12-07T20:41:47.930334",
+            "name": "Filip Petrusev"
+        },
+        {
+            "id": 1630235,
+            "ppg": 2.8,
+            "timestamp": "2024-12-07T20:41:47.935715",
+            "name": "Trent Forrest"
+        },
+        {
+            "id": 1630314,
+            "ppg": 8.0,
+            "timestamp": "2024-12-07T20:41:47.941461",
+            "name": "Brandon Williams"
+        },
+        {
+            "id": 201143,
+            "ppg": 13.1,
+            "timestamp": "2024-12-07T20:41:47.947228",
+            "name": "Al Horford"
+        },
+        {
+            "id": 1628981,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T20:47:05.360619",
+            "name": "Bruno Fernando"
+        },
+        {
+            "id": 202695,
+            "ppg": 20.0,
+            "timestamp": "2024-12-07T20:47:05.365868",
+            "name": "Kawhi Leonard"
+        },
+        {
+            "id": 1641754,
+            "ppg": 1.6,
+            "timestamp": "2024-12-07T20:47:05.370845",
+            "name": "Seth Lundy"
+        },
+        {
+            "id": 1627751,
+            "ppg": 8.7,
+            "timestamp": "2024-12-07T20:47:05.375851",
+            "name": "Jakob Poeltl"
+        },
+        {
+            "id": 1641730,
+            "ppg": 6.4,
+            "timestamp": "2024-12-07T20:47:05.381030",
+            "name": "Noah Clowney"
+        },
+        {
+            "id": 2544,
+            "ppg": 27.1,
+            "timestamp": "2024-12-07T20:47:05.386061",
+            "name": "LeBron James"
+        },
+        {
+            "id": 1641707,
+            "ppg": 7.1,
+            "timestamp": "2024-12-07T20:47:05.391766",
+            "name": "Taylor Hendricks"
+        },
+        {
+            "id": 1630556,
+            "ppg": 3.4,
+            "timestamp": "2024-12-07T20:47:05.396997",
+            "name": "Kessler Edwards"
+        },
+        {
+            "id": 1628962,
+            "ppg": 3.0,
+            "timestamp": "2024-12-07T20:47:05.402702",
+            "name": "Udoka Azubuike"
+        },
+        {
+            "id": 204456,
+            "ppg": 7.6,
+            "timestamp": "2024-12-07T20:52:14.256983",
+            "name": "T.J. McConnell"
+        },
+        {
+            "id": 1631241,
+            "ppg": 7.0,
+            "timestamp": "2024-12-07T20:52:14.260883",
+            "name": "Javon Freeman-Liberty"
+        },
+        {
+            "id": 1630205,
+            "ppg": 5.7,
+            "timestamp": "2024-12-07T20:52:14.263517",
+            "name": "Lamar Stevens"
+        },
+        {
+            "id": 1630551,
+            "ppg": 3.6,
+            "timestamp": "2024-12-07T20:52:14.266221",
+            "name": "Justin Champagnie"
+        },
+        {
+            "id": 1628969,
+            "ppg": 14.4,
+            "timestamp": "2024-12-07T20:52:14.269000",
+            "name": "Mikal Bridges"
+        },
+        {
+            "id": 1629111,
+            "ppg": 5.4,
+            "timestamp": "2024-12-07T20:57:30.016768",
+            "name": "Jock Landale"
+        },
+        {
+            "id": 1629614,
+            "ppg": 9.2,
+            "timestamp": "2024-12-07T20:57:30.023027",
+            "name": "Andrew Nembhard"
+        },
+        {
+            "id": 1631123,
+            "ppg": 2.6,
+            "timestamp": "2024-12-07T20:57:30.028764",
+            "name": "Jamaree Bouyea"
+        },
+        {
+            "id": 1629718,
+            "ppg": 2.0,
+            "timestamp": "2024-12-07T20:57:30.034360",
+            "name": "Charlie Brown Jr."
+        },
+        {
+            "id": 1630562,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T20:57:30.039925",
+            "name": "Matt Hurt"
+        },
+        {
+            "id": 1627777,
+            "ppg": 7.1,
+            "timestamp": "2024-12-07T20:57:30.045452",
+            "name": "Georges Niang"
+        },
+        {
+            "id": 1631221,
+            "ppg": 3.6,
+            "timestamp": "2024-12-07T20:57:30.051034",
+            "name": "Collin Gillespie"
+        },
+        {
+            "id": 1630553,
+            "ppg": 5.9,
+            "timestamp": "2024-12-07T20:57:30.057187",
+            "name": "Keon Johnson"
+        },
+        {
+            "id": 203992,
+            "ppg": 14.6,
+            "timestamp": "2024-12-07T20:57:30.062484",
+            "name": "Bogdan Bogdanovic"
+        },
+        {
+            "id": 1631306,
+            "ppg": 1.9,
+            "timestamp": "2024-12-07T21:02:39.501454",
+            "name": "Cole Swider"
+        },
+        {
+            "id": 1627832,
+            "ppg": 15.1,
+            "timestamp": "2024-12-07T21:02:39.504823",
+            "name": "Fred VanVleet"
+        },
+        {
+            "id": 203471,
+            "ppg": 14.1,
+            "timestamp": "2024-12-07T21:02:39.507958",
+            "name": "Dennis Schroder"
+        },
+        {
+            "id": 1630288,
+            "ppg": 2.7,
+            "timestamp": "2024-12-07T21:02:39.510837",
+            "name": "Jeff Dowtin Jr."
+        },
+        {
+            "id": 202692,
+            "ppg": 10.7,
+            "timestamp": "2024-12-07T21:02:39.513576",
+            "name": "Alec Burks"
+        },
+        {
+            "id": 1626224,
+            "ppg": 9.3,
+            "timestamp": "2024-12-07T21:02:39.516983",
+            "name": "Cedi Osman"
+        },
+        {
+            "id": 1641765,
+            "ppg": 2.7,
+            "timestamp": "2024-12-07T21:07:49.960327",
+            "name": "Olivier-Maxence Prosper"
+        },
+        {
+            "id": 1629312,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T21:07:49.963382",
+            "name": "Haywood Highsmith"
+        },
+        {
+            "id": 1630256,
+            "ppg": 9.0,
+            "timestamp": "2024-12-07T21:07:49.966639",
+            "name": "Jae'Sean Tate"
+        },
+        {
+            "id": 203926,
+            "ppg": 8.8,
+            "timestamp": "2024-12-07T21:07:49.969521",
+            "name": "Doug McDermott"
+        },
+        {
+            "id": 1626156,
+            "ppg": 17.5,
+            "timestamp": "2024-12-07T21:07:49.972446",
+            "name": "D'Angelo Russell"
+        },
+        {
+            "id": 1631157,
+            "ppg": 2.7,
+            "timestamp": "2024-12-07T21:12:59.815396",
+            "name": "Ryan Rollins"
+        },
+        {
+            "id": 1631214,
+            "ppg": 1.1,
+            "timestamp": "2024-12-07T21:12:59.821957",
+            "name": "Alondes Williams"
+        },
+        {
+            "id": 1629627,
+            "ppg": 24.6,
+            "timestamp": "2024-12-07T21:12:59.828307",
+            "name": "Zion Williamson"
+        },
+        {
+            "id": 1630529,
+            "ppg": 10.1,
+            "timestamp": "2024-12-07T21:12:59.834758",
+            "name": "Herbert Jones"
+        },
+        {
+            "id": 202709,
+            "ppg": 6.8,
+            "timestamp": "2024-12-07T21:12:59.841730",
+            "name": "Cory Joseph"
+        },
+        {
+            "id": 1630567,
+            "ppg": 16.9,
+            "timestamp": "2024-12-07T21:12:59.847564",
+            "name": "Scottie Barnes"
+        },
+        {
+            "id": 1626166,
+            "ppg": 7.9,
+            "timestamp": "2024-12-07T21:26:10.038783",
+            "name": "Cameron Payne"
+        },
+        {
+            "id": 1630535,
+            "ppg": 3.8,
+            "timestamp": "2024-12-07T21:26:10.048237",
+            "name": "Greg Brown III"
+        },
+        {
+            "id": 1641721,
+            "ppg": 0.4,
+            "timestamp": "2024-12-07T21:26:10.052030",
+            "name": "Maxwell Lewis"
+        },
+        {
+            "id": 1641767,
+            "ppg": 4.7,
+            "timestamp": "2024-12-07T21:26:10.056289",
+            "name": "Ben Sheppard"
+        },
+        {
+            "id": 1630296,
+            "ppg": 3.1,
+            "timestamp": "2024-12-07T21:31:15.580329",
+            "name": "Braxton Key"
+        },
+        {
+            "id": 1629010,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T21:31:15.594012",
+            "name": "Jerome Robinson"
+        },
+        {
+            "id": 1630647,
+            "ppg": 5.7,
+            "timestamp": "2024-12-07T21:31:15.597099",
+            "name": "Eugene Omoruyi"
+        },
+        {
+            "id": 1628380,
+            "ppg": 8.1,
+            "timestamp": "2024-12-07T21:32:14.857128",
+            "name": "Zach Collins"
+        },
+        {
+            "id": 1630183,
+            "ppg": 9.8,
+            "timestamp": "2024-12-07T21:32:14.860336",
+            "name": "Jaden McDaniels"
+        },
+        {
+            "id": 1631207,
+            "ppg": 3.1,
+            "timestamp": "2024-12-07T21:32:14.864544",
+            "name": "Dalen Terry"
+        },
+        {
+            "id": 203924,
+            "ppg": 13.1,
+            "timestamp": "2024-12-07T21:32:14.867642",
+            "name": "Jerami Grant"
+        },
+        {
+            "id": 1629678,
+            "ppg": 3.3,
+            "timestamp": "2024-12-07T21:32:14.871091",
+            "name": "Admiral Schofield"
+        },
+        {
+            "id": 1631170,
+            "ppg": 11.3,
+            "timestamp": "2024-12-07T21:32:14.874871",
+            "name": "Jaime Jaquez Jr."
+        },
+        {
+            "id": 1641716,
+            "ppg": 4.3,
+            "timestamp": "2024-12-07T21:40:34.285043",
+            "name": "Jarace Walker"
+        },
+        {
+            "id": 1631321,
+            "ppg": 2.3,
+            "timestamp": "2024-12-07T21:40:34.288838",
+            "name": "Sidy Cissoko"
+        },
+        {
+            "id": 201572,
+            "ppg": 16.0,
+            "timestamp": "2024-12-07T21:45:39.163466",
+            "name": "Brook Lopez"
+        },
+        {
+            "id": 1627780,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T21:45:39.166801",
+            "name": "Gary Payton II"
+        },
+        {
+            "id": 1626162,
+            "ppg": 13.1,
+            "timestamp": "2024-12-07T21:45:39.170259",
+            "name": "Kelly Oubre Jr."
+        },
+        {
+            "id": 1629234,
+            "ppg": 5.8,
+            "timestamp": "2024-12-07T21:45:39.173468",
+            "name": "Drew Eubanks"
+        },
+        {
+            "id": 1630165,
+            "ppg": 8.1,
+            "timestamp": "2024-12-07T21:50:48.618842",
+            "name": "Killian Hayes"
+        },
+        {
+            "id": 1629628,
+            "ppg": 18.7,
+            "timestamp": "2024-12-07T21:50:48.625108",
+            "name": "RJ Barrett"
+        },
+        {
+            "id": 1631120,
+            "ppg": 1.6,
+            "timestamp": "2024-12-07T21:50:48.631765",
+            "name": "JD Davison"
+        },
+        {
+            "id": 1629622,
+            "ppg": 10.6,
+            "timestamp": "2024-12-07T21:50:48.638444",
+            "name": "Max Strus"
+        },
+        {
+            "id": 1629052,
+            "ppg": 6.5,
+            "timestamp": "2024-12-07T21:50:48.644511",
+            "name": "Oshae Brissett"
+        },
+        {
+            "id": 1628398,
+            "ppg": 17.3,
+            "timestamp": "2024-12-07T21:50:48.652076",
+            "name": "Kyle Kuzma"
+        },
+        {
+            "id": 1630182,
+            "ppg": 6.5,
+            "timestamp": "2024-12-07T21:50:48.658371",
+            "name": "Josh Green"
+        },
+        {
+            "id": 1630600,
+            "ppg": 2.5,
+            "timestamp": "2024-12-07T21:53:18.176253",
+            "name": "Isaiah Mobley"
+        },
+        {
+            "id": 1630658,
+            "ppg": 1.3,
+            "timestamp": "2024-12-07T21:53:18.179764",
+            "name": "Colin Castleton"
+        },
+        {
+            "id": 1630552,
+            "ppg": 10.5,
+            "timestamp": "2024-12-07T21:53:18.183386",
+            "name": "Jalen Johnson"
+        },
+        {
+            "id": 1630846,
+            "ppg": 4.8,
+            "timestamp": "2024-12-07T21:53:18.186741",
+            "name": "Olivier Sarr"
+        },
+        {
+            "id": 201566,
+            "ppg": 21.5,
+            "timestamp": "2024-12-07T21:53:18.192264",
+            "name": "Russell Westbrook"
+        },
+        {
+            "id": 1641717,
+            "ppg": 6.8,
+            "timestamp": "2024-12-07T21:58:26.579780",
+            "name": "Cason Wallace"
+        },
+        {
+            "id": 1627752,
+            "ppg": 10.1,
+            "timestamp": "2024-12-07T21:58:26.590693",
+            "name": "Taurean Prince"
+        },
+        {
+            "id": 1630191,
+            "ppg": 9.0,
+            "timestamp": "2024-12-07T21:58:26.597316",
+            "name": "Isaiah Stewart"
+        },
+        {
+            "id": 1630598,
+            "ppg": 7.5,
+            "timestamp": "2024-12-07T21:58:26.606963",
+            "name": "Aaron Wiggins"
+        },
+        {
+            "id": 1628976,
+            "ppg": 12.4,
+            "timestamp": "2024-12-07T21:59:38.030387",
+            "name": "Wendell Carter Jr."
+        },
+        {
+            "id": 1628470,
+            "ppg": 6.0,
+            "timestamp": "2024-12-07T21:59:38.038790",
+            "name": "Torrey Craig"
+        },
+        {
+            "id": 1629029,
+            "ppg": 28.7,
+            "timestamp": "2024-12-07T21:59:38.042039",
+            "name": "Luka Doncic"
+        },
+        {
+            "id": 1631169,
+            "ppg": 2.1,
+            "timestamp": "2024-12-07T21:59:38.046862",
+            "name": "Josh Minott"
+        },
+        {
+            "id": 201949,
+            "ppg": 7.5,
+            "timestamp": "2024-12-07T22:00:49.531373",
+            "name": "James Johnson"
+        },
+        {
+            "id": 1626158,
+            "ppg": 8.6,
+            "timestamp": "2024-12-07T22:00:49.537492",
+            "name": "Richaun Holmes"
+        },
+        {
+            "id": 1628386,
+            "ppg": 12.8,
+            "timestamp": "2024-12-07T22:00:49.543469",
+            "name": "Jarrett Allen"
+        },
+        {
+            "id": 201935,
+            "ppg": 24.1,
+            "timestamp": "2024-12-07T22:00:49.548906",
+            "name": "James Harden"
+        },
+        {
+            "id": 1641745,
+            "ppg": 1.4,
+            "timestamp": "2024-12-07T22:00:49.555189",
+            "name": "Adam Flagler"
+        },
+        {
+            "id": 1629603,
+            "ppg": 3.1,
+            "timestamp": "2024-12-07T22:00:49.560660",
+            "name": "Mamadi Diakite"
+        },
+        {
+            "id": 1630285,
+            "ppg": 7.8,
+            "timestamp": "2024-12-07T22:00:49.567589",
+            "name": "Zavier Simpson"
+        },
+        {
+            "id": 1641970,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T22:00:49.573018",
+            "name": "Maozinha Pereira"
+        },
+        {
+            "id": 1629667,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T22:03:38.715070",
+            "name": "Jalen McDaniels"
+        },
+        {
+            "id": 1631108,
+            "ppg": 4.2,
+            "timestamp": "2024-12-07T22:03:38.718848",
+            "name": "Max Christie"
+        },
+        {
+            "id": 201976,
+            "ppg": 8.3,
+            "timestamp": "2024-12-07T22:03:38.722334",
+            "name": "Patrick Beverley"
+        },
+        {
+            "id": 1641738,
+            "ppg": 2.1,
+            "timestamp": "2024-12-07T22:03:38.727491",
+            "name": "Kobe Brown"
+        },
+        {
+            "id": 1627742,
+            "ppg": 19.5,
+            "timestamp": "2024-12-07T22:03:38.731577",
+            "name": "Brandon Ingram"
+        },
+        {
+            "id": 1628464,
+            "ppg": 7.2,
+            "timestamp": "2024-12-07T22:08:46.267147",
+            "name": "Daniel Theis"
+        },
+        {
+            "id": 1629723,
+            "ppg": 4.5,
+            "timestamp": "2024-12-07T22:08:46.272079",
+            "name": "John Konchar"
+        },
+        {
+            "id": 1629650,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T22:08:46.275989",
+            "name": "Moses Brown"
+        },
+        {
+            "id": 1629651,
+            "ppg": 10.3,
+            "timestamp": "2024-12-07T22:08:46.280930",
+            "name": "Nic Claxton"
+        },
+        {
+            "id": 1641809,
+            "ppg": 2.9,
+            "timestamp": "2024-12-07T22:08:46.284873",
+            "name": "Drew Peterson"
+        },
+        {
+            "id": 1629027,
+            "ppg": 25.3,
+            "timestamp": "2024-12-07T22:13:53.603535",
+            "name": "Trae Young"
+        },
+        {
+            "id": 1641741,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T22:13:53.611687",
+            "name": "Ricky Council IV"
+        },
+        {
+            "id": 1631223,
+            "ppg": 6.5,
+            "timestamp": "2024-12-07T22:13:53.619471",
+            "name": "David Roddy"
+        },
+        {
+            "id": 1628995,
+            "ppg": 7.4,
+            "timestamp": "2024-12-07T22:13:53.626437",
+            "name": "Kevin Knox II"
+        },
+        {
+            "id": 1628368,
+            "ppg": 21.5,
+            "timestamp": "2024-12-07T22:13:53.633826",
+            "name": "De'Aaron Fox"
+        },
+        {
+            "id": 1631386,
+            "ppg": 4.0,
+            "timestamp": "2024-12-07T22:19:02.284564",
+            "name": "Taze Moore"
+        },
+        {
+            "id": 1631131,
+            "ppg": 3.2,
+            "timestamp": "2024-12-07T22:19:02.293273",
+            "name": "Oscar Tshiebwe"
+        },
+        {
+            "id": 1631165,
+            "ppg": 5.0,
+            "timestamp": "2024-12-07T22:19:02.300020",
+            "name": "Keon Ellis"
+        },
+        {
+            "id": 202711,
+            "ppg": 15.6,
+            "timestamp": "2024-12-07T22:19:02.309905",
+            "name": "Bojan Bogdanovic"
+        },
+        {
+            "id": 1630592,
+            "ppg": 6.3,
+            "timestamp": "2024-12-07T22:24:09.306446",
+            "name": "Jalen Wilson"
+        },
+        {
+            "id": 1630209,
+            "ppg": 5.0,
+            "timestamp": "2024-12-07T22:24:09.314870",
+            "name": "Omer Yurtseven"
+        },
+        {
+            "id": 1641931,
+            "ppg": 3.5,
+            "timestamp": "2024-12-07T22:24:09.322946",
+            "name": "Onuralp Bitim"
+        },
+        {
+            "id": 1629057,
+            "ppg": 7.4,
+            "timestamp": "2024-12-07T22:29:19.177145",
+            "name": "Robert Williams III"
+        },
+        {
+            "id": 1629670,
+            "ppg": 7.6,
+            "timestamp": "2024-12-07T22:29:19.184128",
+            "name": "Jordan Nwora"
+        },
+        {
+            "id": 1629673,
+            "ppg": 16.4,
+            "timestamp": "2024-12-07T22:29:19.192548",
+            "name": "Jordan Poole"
+        },
+        {
+            "id": 1628966,
+            "ppg": 6.0,
+            "timestamp": "2024-12-07T22:29:19.199897",
+            "name": "Keita Bates-Diop"
+        },
+        {
+            "id": 1629646,
+            "ppg": 4.2,
+            "timestamp": "2024-12-07T22:29:19.207732",
+            "name": "Charles Bassey"
+        },
+        {
+            "id": 1627936,
+            "ppg": 6.8,
+            "timestamp": "2024-12-07T22:29:19.215984",
+            "name": "Alex Caruso"
+        },
+        {
+            "id": 1630214,
+            "ppg": 5.7,
+            "timestamp": "2024-12-07T22:41:55.832380",
+            "name": "Xavier Tillman"
+        },
+        {
+            "id": 1629013,
+            "ppg": 8.7,
+            "timestamp": "2024-12-07T22:41:55.840198",
+            "name": "Landry Shamet"
+        },
+        {
+            "id": 1630692,
+            "ppg": 6.4,
+            "timestamp": "2024-12-07T22:41:55.848886",
+            "name": "Jordan Goodwin"
+        },
+        {
+            "id": 1641816,
+            "ppg": 1.6,
+            "timestamp": "2024-12-07T22:46:59.113866",
+            "name": "Hunter Tyson"
+        },
+        {
+            "id": 1627763,
+            "ppg": 15.4,
+            "timestamp": "2024-12-07T22:46:59.117526",
+            "name": "Malcolm Brogdon"
+        },
+        {
+            "id": 1641720,
+            "ppg": 1.7,
+            "timestamp": "2024-12-07T22:46:59.121116",
+            "name": "Jalen Hood-Schifino"
+        },
+        {
+            "id": 203507,
+            "ppg": 23.6,
+            "timestamp": "2024-12-07T22:52:17.998719",
+            "name": "Giannis Antetokounmpo"
+        },
+        {
+            "id": 1626179,
+            "ppg": 14.2,
+            "timestamp": "2024-12-07T22:52:18.003062",
+            "name": "Terry Rozier"
+        },
+        {
+            "id": 1641739,
+            "ppg": 8.0,
+            "timestamp": "2024-12-07T22:52:18.007281",
+            "name": "Toumani Camara"
+        },
+        {
+            "id": 1630532,
+            "ppg": 18.4,
+            "timestamp": "2024-12-07T22:57:37.158966",
+            "name": "Franz Wagner"
+        },
+        {
+            "id": 1629012,
+            "ppg": 18.8,
+            "timestamp": "2024-12-07T22:57:37.165410",
+            "name": "Collin Sexton"
+        },
+        {
+            "id": 1630215,
+            "ppg": 5.1,
+            "timestamp": "2024-12-07T22:57:37.169698",
+            "name": "Jared Butler"
+        },
+        {
+            "id": 201568,
+            "ppg": 14.9,
+            "timestamp": "2024-12-07T23:02:43.946359",
+            "name": "Danilo Gallinari"
+        },
+        {
+            "id": 1627745,
+            "ppg": 4.9,
+            "timestamp": "2024-12-07T23:02:43.950265",
+            "name": "Damian Jones"
+        },
+        {
+            "id": 202066,
+            "ppg": 6.0,
+            "timestamp": "2024-12-07T23:02:43.956436",
+            "name": "Garrett Temple"
+        },
+        {
+            "id": 1629626,
+            "ppg": 5.9,
+            "timestamp": "2024-12-07T23:07:51.108145",
+            "name": "Bol Bol"
+        },
+        {
+            "id": 1630228,
+            "ppg": 12.1,
+            "timestamp": "2024-12-07T23:07:51.116180",
+            "name": "Jonathan Kuminga"
+        },
+        {
+            "id": 203493,
+            "ppg": 7.3,
+            "timestamp": "2024-12-07T23:07:51.128646",
+            "name": "Reggie Bullock Jr."
+        },
+        {
+            "id": 1630554,
+            "ppg": 2.5,
+            "timestamp": "2024-12-07T23:07:51.137253",
+            "name": "Jason Preston"
+        },
+        {
+            "id": 1628467,
+            "ppg": 6.5,
+            "timestamp": "2024-12-07T23:12:55.864547",
+            "name": "Maxi Kleber"
+        },
+        {
+            "id": 1641735,
+            "ppg": 2.3,
+            "timestamp": "2024-12-07T23:12:55.874541",
+            "name": "Amari Bailey"
+        },
+        {
+            "id": 1630192,
+            "ppg": 4.3,
+            "timestamp": "2024-12-07T23:12:55.882891",
+            "name": "Zeke Nnaji"
+        },
+        {
+            "id": 1627884,
+            "ppg": 6.9,
+            "timestamp": "2024-12-07T23:17:59.504515",
+            "name": "Derrick Jones Jr."
+        },
+        {
+            "id": 1628374,
+            "ppg": 18.2,
+            "timestamp": "2024-12-07T23:17:59.515592",
+            "name": "Lauri Markkanen"
+        },
+        {
+            "id": 1628401,
+            "ppg": 12.6,
+            "timestamp": "2024-12-07T23:17:59.525508",
+            "name": "Derrick White"
+        },
+        {
+            "id": 1641854,
+            "ppg": 4.9,
+            "timestamp": "2024-12-07T23:23:06.856092",
+            "name": "Craig Porter Jr."
+        },
+        {
+            "id": 1629677,
+            "ppg": 4.5,
+            "timestamp": "2024-12-07T23:23:06.860972",
+            "name": "Luka Samanic"
+        },
+        {
+            "id": 1627759,
+            "ppg": 18.8,
+            "timestamp": "2024-12-07T23:23:06.867043",
+            "name": "Jaylen Brown"
+        },
+        {
+            "id": 1626181,
+            "ppg": 12.6,
+            "timestamp": "2024-12-07T23:23:06.872026",
+            "name": "Norman Powell"
+        },
+        {
+            "id": 1630563,
+            "ppg": 5.7,
+            "timestamp": "2024-12-07T23:28:09.811892",
+            "name": "Joshua Primo"
+        },
+        {
+            "id": 202694,
+            "ppg": 12.0,
+            "timestamp": "2024-12-07T23:33:11.619646",
+            "name": "Marcus Morris Sr."
+        },
+        {
+            "id": 203078,
+            "ppg": 21.8,
+            "timestamp": "2024-12-07T23:38:19.758036",
+            "name": "Bradley Beal"
+        },
+        {
+            "id": 201942,
+            "ppg": 21.3,
+            "timestamp": "2024-12-07T23:38:19.767742",
+            "name": "DeMar DeRozan"
+        },
+        {
+            "id": 1630558,
+            "ppg": 7.4,
+            "timestamp": "2024-12-07T23:38:19.776287",
+            "name": "Davion Mitchell"
+        },
+        {
+            "id": 1628998,
+            "ppg": 6.2,
+            "timestamp": "2024-12-07T23:38:19.784004",
+            "name": "Cody Martin"
+        },
+        {
+            "id": 1629048,
+            "ppg": 5.2,
+            "timestamp": "2024-12-07T23:38:19.791606",
+            "name": "Goga Bitadze"
+        },
+        {
+            "id": 204060,
+            "ppg": 8.0,
+            "timestamp": "2024-12-07T23:43:26.380946",
+            "name": "Joe Ingles"
+        },
+        {
+            "id": 1631104,
+            "ppg": 4.5,
+            "timestamp": "2024-12-07T23:43:26.386884",
+            "name": "Blake Wesley"
+        },
+        {
+            "id": 1631110,
+            "ppg": 11.6,
+            "timestamp": "2024-12-07T23:43:26.392885",
+            "name": "Jeremy Sochan"
+        },
+        {
+            "id": 1628427,
+            "ppg": 3.5,
+            "timestamp": "2024-12-07T23:43:26.402877",
+            "name": "Vlatko Cancar"
+        },
+        {
+            "id": 1631128,
+            "ppg": 7.2,
+            "timestamp": "2024-12-07T23:48:30.350855",
+            "name": "Christian Braun"
+        },
+        {
+            "id": 1629675,
+            "ppg": 11.0,
+            "timestamp": "2024-12-07T23:48:30.359240",
+            "name": "Naz Reid"
+        },
+        {
+            "id": 203110,
+            "ppg": 8.7,
+            "timestamp": "2024-12-07T23:53:39.744082",
+            "name": "Draymond Green"
+        },
+        {
+            "id": 1627750,
+            "ppg": 17.5,
+            "timestamp": "2024-12-07T23:53:39.754555",
+            "name": "Jamal Murray"
+        },
+        {
+            "id": 203935,
+            "ppg": 10.7,
+            "timestamp": "2024-12-07T23:53:39.765607",
+            "name": "Marcus Smart"
+        },
+        {
+            "id": 1628989,
+            "ppg": 11.8,
+            "timestamp": "2024-12-07T23:53:39.775527",
+            "name": "Kevin Huerter"
+        },
+        {
+            "id": 1629028,
+            "ppg": 16.6,
+            "timestamp": "2024-12-07T23:53:39.784757",
+            "name": "Deandre Ayton"
+        },
+        {
+            "id": 201988,
+            "ppg": 8.8,
+            "timestamp": "2024-12-07T23:58:46.794956",
+            "name": "Patty Mills"
+        },
+        {
+            "id": 1631100,
+            "ppg": 7.5,
+            "timestamp": "2024-12-07T23:58:46.804163",
+            "name": "AJ Griffin"
+        },
+        {
+            "id": 203486,
+            "ppg": 8.3,
+            "timestamp": "2024-12-07T23:58:46.810140",
+            "name": "Mason Plumlee"
+        },
+        {
+            "id": 1629660,
+            "ppg": 7.5,
+            "timestamp": "2024-12-08T00:03:49.769397",
+            "name": "Ty Jerome"
+        },
+        {
+            "id": 1629643,
+            "ppg": 6.3,
+            "timestamp": "2024-12-08T00:09:00.374374",
+            "name": "Chuma Okeke"
+        },
+        {
+            "id": 1629642,
+            "ppg": 5.5,
+            "timestamp": "2024-12-08T00:09:00.383260",
+            "name": "Nassir Little"
+        },
+        {
+            "id": 1629661,
+            "ppg": 12.2,
+            "timestamp": "2024-12-08T00:09:00.393092",
+            "name": "Cameron Johnson"
+        },
+        {
+            "id": 1630538,
+            "ppg": 9.8,
+            "timestamp": "2024-12-08T00:09:00.401541",
+            "name": "Bones Hyland"
+        },
+        {
+            "id": 1630631,
+            "ppg": 7.7,
+            "timestamp": "2024-12-08T00:09:00.409833",
+            "name": "Jose Alvarado"
+        },
+        {
+            "id": 201567,
+            "ppg": 16.4,
+            "timestamp": "2024-12-08T00:14:03.485974",
+            "name": "Kevin Love"
+        },
+        {
+            "id": 203501,
+            "ppg": 13.9,
+            "timestamp": "2024-12-08T00:14:03.499704",
+            "name": "Tim Hardaway Jr."
+        },
+        {
+            "id": 1629162,
+            "ppg": 4.3,
+            "timestamp": "2024-12-08T00:24:07.463013",
+            "name": "Jordan McLaughlin"
+        },
+        {
+            "id": 203469,
+            "ppg": 7.9,
+            "timestamp": "2024-12-08T00:24:07.467871",
+            "name": "Cody Zeller"
+        }
+    ],
+    "id_map": {
+        "1630202": 0,
+        "1641847": 1,
+        "1630284": 2,
+        "1630579": 3,
+        "1630181": 4,
+        "1641713": 5,
+        "1630178": 6,
+        "1629634": 7,
+        "1630544": 8,
+        "1629018": 9,
+        "1630700": 10,
+        "203944": 11,
+        "1630595": 12,
+        "1641722": 13,
+        "1627747": 14,
+        "1641727": 15,
+        "1630608": 16,
+        "1630622": 17,
+        "1630695": 18,
+        "1629002": 19,
+        "1630173": 20,
+        "1630591": 21,
+        "201580": 22,
+        "1631298": 23,
+        "1628389": 24,
+        "1626153": 25,
+        "1629647": 26,
+        "1641798": 27,
+        "201565": 28,
+        "1629216": 29,
+        "1627734": 30,
+        "1630527": 31,
+        "1626164": 32,
+        "1631323": 33,
+        "1626168": 34,
+        "1630583": 35,
+        "1631230": 36,
+        "1631097": 37,
+        "1630208": 38,
+        "1630164": 39,
+        "202331": 40,
+        "1627853": 41,
+        "1630578": 42,
+        "202704": 43,
+        "1628385": 44,
+        "1631112": 45,
+        "1631159": 46,
+        "1641710": 47,
+        "1628365": 48,
+        "1641731": 49,
+        "1630188": 50,
+        "203076": 51,
+        "1630186": 52,
+        "1628372": 53,
+        "1630264": 54,
+        "1629680": 55,
+        "1629611": 56,
+        "1641724": 57,
+        "1631119": 58,
+        "1641708": 59,
+        "1629659": 60,
+        "203995": 61,
+        "203084": 62,
+        "1630643": 63,
+        "202699": 64,
+        "1631212": 65,
+        "1631243": 66,
+        "1629117": 67,
+        "1630696": 68,
+        "1626157": 69,
+        "1626171": 70,
+        "1628378": 71,
+        "1629656": 72,
+        "1629130": 73,
+        "203081": 74,
+        "1631220": 75,
+        "1628404": 76,
+        "1630311": 77,
+        "1630649": 78,
+        "1631107": 79,
+        "1627732": 80,
+        "1629875": 81,
+        "1630537": 82,
+        "1631246": 83,
+        "1630702": 84,
+        "1630231": 85,
+        "1641871": 86,
+        "203083": 87,
+        "201152": 88,
+        "1627788": 89,
+        "1629020": 90,
+        "1631218": 91,
+        "1630162": 92,
+        "1629014": 93,
+        "1630204": 94,
+        "1631254": 95,
+        "1631115": 96,
+        "203932": 97,
+        "202330": 98,
+        "202687": 99,
+        "1641764": 100,
+        "1631133": 101,
+        "1630200": 102,
+        "203200": 103,
+        "1631311": 104,
+        "1631222": 105,
+        "1630590": 106,
+        "1641926": 107,
+        "1628420": 108,
+        "1631103": 109,
+        "202693": 110,
+        "1630548": 111,
+        "1630557": 112,
+        "1631204": 113,
+        "1629731": 114,
+        "201939": 115,
+        "1630610": 116,
+        "1629750": 117,
+        "1631367": 118,
+        "1628415": 119,
+        "1641877": 120,
+        "1631094": 121,
+        "1641712": 122,
+        "1631172": 123,
+        "1630572": 124,
+        "1631105": 125,
+        "1630561": 126,
+        "203954": 127,
+        "1628370": 128,
+        "1630207": 129,
+        "1628984": 130,
+        "1627814": 131,
+        "1631209": 132,
+        "1630322": 133,
+        "203488": 134,
+        "1630167": 135,
+        "203552": 136,
+        "1630169": 137,
+        "1630568": 138,
+        "1631245": 139,
+        "1641733": 140,
+        "1630163": 141,
+        "204001": 142,
+        "1631216": 143,
+        "1630604": 144,
+        "1641753": 145,
+        "202738": 146,
+        "1630177": 147,
+        "1631114": 148,
+        "1630526": 149,
+        "203933": 150,
+        "1627749": 151,
+        "1631217": 152,
+        "203952": 153,
+        "1631109": 154,
+        "1630168": 155,
+        "203497": 156,
+        "1629618": 157,
+        "202684": 158,
+        "1629637": 159,
+        "1627885": 160,
+        "203957": 161,
+        "203496": 162,
+        "1628971": 163,
+        "1631288": 164,
+        "1630641": 165,
+        "1626196": 166,
+        "1630227": 167,
+        "1641806": 168,
+        "201599": 169,
+        "203937": 170,
+        "1629232": 171,
+        "1629008": 172,
+        "1631167": 173,
+        "1631095": 174,
+        "1630194": 175,
+        "1628972": 176,
+        "1630543": 177,
+        "1641775": 178,
+        "202681": 179,
+        "1631257": 180,
+        "1628381": 181,
+        "1627826": 182,
+        "1630688": 183,
+        "1630217": 184,
+        "1629006": 185,
+        "1641748": 186,
+        "1626145": 187,
+        "1628964": 188,
+        "1629684": 189,
+        "1641787": 190,
+        "1629717": 191,
+        "1628382": 192,
+        "1641705": 193,
+        "1626172": 194,
+        "1631303": 195,
+        "1629001": 196,
+        "1626220": 197,
+        "201587": 198,
+        "1631102": 199,
+        "1641766": 200,
+        "1629023": 201,
+        "1642013": 202,
+        "201569": 203,
+        "1641726": 204,
+        "101108": 205,
+        "202685": 206,
+        "1627863": 207,
+        "1630587": 208,
+        "1628449": 209,
+        "1629669": 210,
+        "1630197": 211,
+        "1628978": 212,
+        "203648": 213,
+        "1629022": 214,
+        "1629599": 215,
+        "203484": 216,
+        "1630259": 217,
+        "203109": 218,
+        "203458": 219,
+        "1628366": 220,
+        "1630245": 221,
+        "1629623": 222,
+        "1630606": 223,
+        "201145": 224,
+        "203897": 225,
+        "203468": 226,
+        "1628963": 227,
+        "1628373": 228,
+        "1630539": 229,
+        "1641774": 230,
+        "203991": 231,
+        "1630564": 232,
+        "1641734": 233,
+        "1627741": 234,
+        "1641723": 235,
+        "1630201": 236,
+        "1630198": 237,
+        "1630570": 238,
+        "1631250": 239,
+        "1641711": 240,
+        "1629636": 241,
+        "1631173": 242,
+        "1631376": 243,
+        "1630586": 244,
+        "200768": 245,
+        "1641749": 246,
+        "201950": 247,
+        "1630222": 248,
+        "201142": 249,
+        "1641718": 250,
+        "1629631": 251,
+        "1631199": 252,
+        "1628977": 253,
+        "1628371": 254,
+        "1631338": 255,
+        "1631098": 256,
+        "1630540": 257,
+        "1629629": 258,
+        "1629011": 259,
+        "1626246": 260,
+        "1631121": 261,
+        "1641771": 262,
+        "1630596": 263,
+        "1631260": 264,
+        "1629655": 265,
+        "1630613": 266,
+        "1629007": 267,
+        "1630530": 268,
+        "1628379": 269,
+        "1630196": 270,
+        "1630235": 271,
+        "1630314": 272,
+        "201143": 273,
+        "1628981": 274,
+        "202695": 275,
+        "1641754": 276,
+        "1627751": 277,
+        "1641730": 278,
+        "2544": 279,
+        "1641707": 280,
+        "1630556": 281,
+        "1628962": 282,
+        "204456": 283,
+        "1631241": 284,
+        "1630205": 285,
+        "1630551": 286,
+        "1628969": 287,
+        "1629111": 288,
+        "1629614": 289,
+        "1631123": 290,
+        "1629718": 291,
+        "1630562": 292,
+        "1627777": 293,
+        "1631221": 294,
+        "1630553": 295,
+        "203992": 296,
+        "1631306": 297,
+        "1627832": 298,
+        "203471": 299,
+        "1630288": 300,
+        "202692": 301,
+        "1626224": 302,
+        "1641765": 303,
+        "1629312": 304,
+        "1630256": 305,
+        "203926": 306,
+        "1626156": 307,
+        "1631157": 308,
+        "1631214": 309,
+        "1629627": 310,
+        "1630529": 311,
+        "202709": 312,
+        "1630567": 313,
+        "1626166": 314,
+        "1630535": 315,
+        "1641721": 316,
+        "1641767": 317,
+        "1630296": 318,
+        "1629010": 319,
+        "1630647": 320,
+        "1628380": 321,
+        "1630183": 322,
+        "1631207": 323,
+        "203924": 324,
+        "1629678": 325,
+        "1631170": 326,
+        "1641716": 327,
+        "1631321": 328,
+        "201572": 329,
+        "1627780": 330,
+        "1626162": 331,
+        "1629234": 332,
+        "1630165": 333,
+        "1629628": 334,
+        "1631120": 335,
+        "1629622": 336,
+        "1629052": 337,
+        "1628398": 338,
+        "1630182": 339,
+        "1630600": 340,
+        "1630658": 341,
+        "1630552": 342,
+        "1630846": 343,
+        "201566": 344,
+        "1641717": 345,
+        "1627752": 346,
+        "1630191": 347,
+        "1630598": 348,
+        "1628976": 349,
+        "1628470": 350,
+        "1629029": 351,
+        "1631169": 352,
+        "201949": 353,
+        "1626158": 354,
+        "1628386": 355,
+        "201935": 356,
+        "1641745": 357,
+        "1629603": 358,
+        "1630285": 359,
+        "1641970": 360,
+        "1629667": 361,
+        "1631108": 362,
+        "201976": 363,
+        "1641738": 364,
+        "1627742": 365,
+        "1628464": 366,
+        "1629723": 367,
+        "1629650": 368,
+        "1629651": 369,
+        "1641809": 370,
+        "1629027": 371,
+        "1641741": 372,
+        "1631223": 373,
+        "1628995": 374,
+        "1628368": 375,
+        "1631386": 376,
+        "1631131": 377,
+        "1631165": 378,
+        "202711": 379,
+        "1630592": 380,
+        "1630209": 381,
+        "1641931": 382,
+        "1629057": 383,
+        "1629670": 384,
+        "1629673": 385,
+        "1628966": 386,
+        "1629646": 387,
+        "1627936": 388,
+        "1630214": 389,
+        "1629013": 390,
+        "1630692": 391,
+        "1641816": 392,
+        "1627763": 393,
+        "1641720": 394,
+        "203507": 395,
+        "1626179": 396,
+        "1641739": 397,
+        "1630532": 398,
+        "1629012": 399,
+        "1630215": 400,
+        "201568": 401,
+        "1627745": 402,
+        "202066": 403,
+        "1629626": 404,
+        "1630228": 405,
+        "203493": 406,
+        "1630554": 407,
+        "1628467": 408,
+        "1641735": 409,
+        "1630192": 410,
+        "1627884": 411,
+        "1628374": 412,
+        "1628401": 413,
+        "1641854": 414,
+        "1629677": 415,
+        "1627759": 416,
+        "1626181": 417,
+        "1630563": 418,
+        "202694": 419,
+        "203078": 420,
+        "201942": 421,
+        "1630558": 422,
+        "1628998": 423,
+        "1629048": 424,
+        "204060": 425,
+        "1631104": 426,
+        "1631110": 427,
+        "1628427": 428,
+        "1631128": 429,
+        "1629675": 430,
+        "203110": 431,
+        "1627750": 432,
+        "203935": 433,
+        "1628989": 434,
+        "1629028": 435,
+        "201988": 436,
+        "1631100": 437,
+        "203486": 438,
+        "1629660": 439,
+        "1629643": 440,
+        "1629642": 441,
+        "1629661": 442,
+        "1630538": 443,
+        "1630631": 444,
+        "201567": 445,
+        "203501": 446,
+        "1629162": 447,
+        "203469": 448
+    }
+}

@@ -1,0 +1,2064 @@
+{
+    "players": [
+        {
+            "id": 77715,
+            "ppg": 6.8,
+            "name": "Carl Nicks"
+        },
+        {
+            "id": 912,
+            "ppg": 5.8,
+            "name": "Rafael Addison"
+        },
+        {
+            "id": 2770,
+            "ppg": 3.5,
+            "name": "Justin Reed"
+        },
+        {
+            "id": 77082,
+            "ppg": 8.4,
+            "name": "Rod Hundley"
+        },
+        {
+            "id": 76956,
+            "ppg": 9.1,
+            "name": "Art Harris"
+        },
+        {
+            "id": 2402,
+            "ppg": 9.4,
+            "name": "Dajuan Wagner"
+        },
+        {
+            "id": 346,
+            "ppg": 2.4,
+            "name": "Doug Edwards"
+        },
+        {
+            "id": 371,
+            "ppg": 10.6,
+            "name": "Terry Mills"
+        },
+        {
+            "id": 77499,
+            "ppg": 9.8,
+            "name": "Ken McBride"
+        },
+        {
+            "id": 2212,
+            "ppg": 4.5,
+            "name": "Steven Hunter"
+        },
+        {
+            "id": 76258,
+            "ppg": 2.5,
+            "name": "Tyrone Britt"
+        },
+        {
+            "id": 1630624,
+            "ppg": 0.0,
+            "name": "Feron Hunt"
+        },
+        {
+            "id": 76415,
+            "ppg": 5.3,
+            "name": "Norris Coleman"
+        },
+        {
+            "id": 1626184,
+            "ppg": 5.7,
+            "name": "Chasson Randle"
+        },
+        {
+            "id": 67,
+            "ppg": 5.3,
+            "name": "Tom Hammonds"
+        },
+        {
+            "id": 77174,
+            "ppg": 4.1,
+            "name": "Askia Jones"
+        },
+        {
+            "id": 1629600,
+            "ppg": 0.7,
+            "name": "Jarron Cumberland"
+        },
+        {
+            "id": 78642,
+            "ppg": 7.5,
+            "name": "Hank Zeller"
+        },
+        {
+            "id": 78105,
+            "ppg": 1.5,
+            "name": "Ed Searcy"
+        },
+        {
+            "id": 1628416,
+            "ppg": 6.6,
+            "name": "Tyler Dorsey"
+        },
+        {
+            "id": 77918,
+            "ppg": 6.0,
+            "name": "Don Ray"
+        },
+        {
+            "id": 2124,
+            "ppg": 4.9,
+            "name": "Malik Allen"
+        },
+        {
+            "id": 78133,
+            "ppg": 12.0,
+            "name": "Lonnie Shelton"
+        },
+        {
+            "id": 202729,
+            "ppg": 2.2,
+            "name": "Josh Selby"
+        },
+        {
+            "id": 1745,
+            "ppg": 0.2,
+            "name": "Casey Shaw"
+        },
+        {
+            "id": 1755,
+            "ppg": 4.0,
+            "name": "Tyson Wheeler"
+        },
+        {
+            "id": 2030,
+            "ppg": 12.3,
+            "name": "Kenyon Martin"
+        },
+        {
+            "id": 77549,
+            "ppg": 1.2,
+            "name": "George McLeod"
+        },
+        {
+            "id": 2767,
+            "ppg": 3.3,
+            "name": "Royal Ivey"
+        },
+        {
+            "id": 913,
+            "ppg": 16.2,
+            "name": "Larry Johnson"
+        },
+        {
+            "id": 1575,
+            "ppg": 1.6,
+            "name": "Derek Grimm"
+        },
+        {
+            "id": 78100,
+            "ppg": 14.9,
+            "name": "Ray Scott"
+        },
+        {
+            "id": 209,
+            "ppg": 11.7,
+            "name": "Dell Curry"
+        },
+        {
+            "id": 101150,
+            "ppg": 13.9,
+            "name": "Lou Williams"
+        },
+        {
+            "id": 911,
+            "ppg": 4.1,
+            "name": "Ervin Johnson"
+        },
+        {
+            "id": 906,
+            "ppg": 5.5,
+            "name": "Haywoode Workman"
+        },
+        {
+            "id": 77375,
+            "ppg": 4.5,
+            "name": "Andrew Levane"
+        },
+        {
+            "id": 77154,
+            "ppg": 4.1,
+            "name": "Ken Johnson"
+        },
+        {
+            "id": 78162,
+            "ppg": 2.0,
+            "name": "Mckinley Singleton"
+        },
+        {
+            "id": 1627854,
+            "ppg": 8.8,
+            "name": "Bryn Forbes"
+        },
+        {
+            "id": 1629755,
+            "ppg": 6.2,
+            "name": "Hassani Gravett"
+        },
+        {
+            "id": 76793,
+            "ppg": 0.3,
+            "name": "Jim Garvin"
+        },
+        {
+            "id": 708,
+            "ppg": 17.8,
+            "name": "Kevin Garnett"
+        },
+        {
+            "id": 76584,
+            "ppg": 6.7,
+            "name": "Bob Donham"
+        },
+        {
+            "id": 78371,
+            "ppg": 5.8,
+            "name": "Lou Tsioropoulos"
+        },
+        {
+            "id": 204038,
+            "ppg": 8.1,
+            "name": "Langston Galloway"
+        },
+        {
+            "id": 101178,
+            "ppg": 2.3,
+            "name": "Arvydas Macijauskas"
+        },
+        {
+            "id": 1542,
+            "ppg": 7.9,
+            "name": "Predrag Drobnjak"
+        },
+        {
+            "id": 201186,
+            "ppg": 5.2,
+            "name": "Stephane Lasme"
+        },
+        {
+            "id": 78397,
+            "ppg": 3.6,
+            "name": "John Vallely"
+        },
+        {
+            "id": 2416,
+            "ppg": 6.4,
+            "name": "Kareem Rush"
+        },
+        {
+            "id": 2574,
+            "ppg": 6.7,
+            "name": "Jason Kapono"
+        },
+        {
+            "id": 78541,
+            "ppg": 1.7,
+            "name": "Chuckie Williams"
+        },
+        {
+            "id": 1629056,
+            "ppg": 8.0,
+            "name": "Terence Davis"
+        },
+        {
+            "id": 203122,
+            "ppg": 0.9,
+            "name": "Kevin Murphy"
+        },
+        {
+            "id": 78035,
+            "ppg": 3.4,
+            "name": "Delaney Rudd"
+        },
+        {
+            "id": 200811,
+            "ppg": 3.7,
+            "name": "Lou Amundson"
+        },
+        {
+            "id": 77687,
+            "ppg": 3.0,
+            "name": "Charles Nash"
+        },
+        {
+            "id": 202388,
+            "ppg": 5.5,
+            "name": "Donald Sloan"
+        },
+        {
+            "id": 1631320,
+            "ppg": 1.0,
+            "name": "Chima Moneke"
+        },
+        {
+            "id": 1034,
+            "ppg": 3.0,
+            "name": "LeRon Ellis"
+        },
+        {
+            "id": 715,
+            "ppg": 1.6,
+            "name": "John Coker"
+        },
+        {
+            "id": 76145,
+            "ppg": 6.3,
+            "name": "Irv Bemoras"
+        },
+        {
+            "id": 76694,
+            "ppg": 6.7,
+            "name": "Mike Farmer"
+        },
+        {
+            "id": 77171,
+            "ppg": 1.3,
+            "name": "Jim Johnstone"
+        },
+        {
+            "id": 680,
+            "ppg": 6.2,
+            "name": "John Amaechi"
+        },
+        {
+            "id": 201157,
+            "ppg": 4.2,
+            "name": "Sean Williams"
+        },
+        {
+            "id": 78136,
+            "ppg": 6.2,
+            "name": "Edmund Sherod"
+        },
+        {
+            "id": 76191,
+            "ppg": 11.5,
+            "name": "Arlen Bockhorn"
+        },
+        {
+            "id": 76168,
+            "ppg": 2.3,
+            "name": "Jerry Bird"
+        },
+        {
+            "id": 1000,
+            "ppg": 7.4,
+            "name": "Shandon Anderson"
+        },
+        {
+            "id": 77024,
+            "ppg": 6.9,
+            "name": "Armond Hill"
+        },
+        {
+            "id": 203093,
+            "ppg": 10.4,
+            "name": "Terrence Jones"
+        },
+        {
+            "id": 77003,
+            "ppg": 1.0,
+            "name": "Skeeter Henry"
+        },
+        {
+            "id": 76794,
+            "ppg": 4.5,
+            "name": "Frank Gates"
+        },
+        {
+            "id": 76346,
+            "ppg": 7.7,
+            "name": "Bob Carpenter"
+        },
+        {
+            "id": 77222,
+            "ppg": 6.5,
+            "name": "Tony Kappen"
+        },
+        {
+            "id": 101158,
+            "ppg": 2.5,
+            "name": "Orien Greene"
+        },
+        {
+            "id": 1629648,
+            "ppg": 2.8,
+            "name": "Jordan Bone"
+        },
+        {
+            "id": 77149,
+            "ppg": 4.8,
+            "name": "George Johnson"
+        },
+        {
+            "id": 1627215,
+            "ppg": 9.4,
+            "name": "Walt Lemon Jr."
+        },
+        {
+            "id": 77770,
+            "ppg": 9.7,
+            "name": "Louis Orr"
+        },
+        {
+            "id": 77939,
+            "ppg": 4.0,
+            "name": "Richard Rellford"
+        },
+        {
+            "id": 2410,
+            "ppg": 7.5,
+            "name": "Fred Jones"
+        },
+        {
+            "id": 77112,
+            "ppg": 2.8,
+            "name": "Winfred Jacobs"
+        },
+        {
+            "id": 77859,
+            "ppg": 0.6,
+            "name": "John Pilch"
+        },
+        {
+            "id": 101184,
+            "ppg": 0.0,
+            "name": "Deng Gai"
+        },
+        {
+            "id": 1101,
+            "ppg": 1.9,
+            "name": "Rich King"
+        },
+        {
+            "id": 76570,
+            "ppg": 5.2,
+            "name": "Bob Dille"
+        },
+        {
+            "id": 2419,
+            "ppg": 11.1,
+            "name": "Tayshaun Prince"
+        },
+        {
+            "id": 1627740,
+            "ppg": 4.1,
+            "name": "Henry Ellenson"
+        },
+        {
+            "id": 1628443,
+            "ppg": 5.5,
+            "name": "Kadeem Allen"
+        },
+        {
+            "id": 77843,
+            "ppg": 4.7,
+            "name": "Bob Peterson"
+        },
+        {
+            "id": 1846,
+            "ppg": 3.3,
+            "name": "Chris Welp"
+        },
+        {
+            "id": 201609,
+            "ppg": 13.3,
+            "name": "Goran Dragic"
+        },
+        {
+            "id": 201192,
+            "ppg": 1.6,
+            "name": "Taurean Green"
+        },
+        {
+            "id": 202705,
+            "ppg": 8.0,
+            "name": "MarShon Brooks"
+        },
+        {
+            "id": 722,
+            "ppg": 11.1,
+            "name": "Corliss Williamson"
+        },
+        {
+            "id": 2398,
+            "ppg": 9.5,
+            "name": "Jay Williams"
+        },
+        {
+            "id": 984,
+            "ppg": 2.2,
+            "name": "Steve Hamer"
+        },
+        {
+            "id": 925,
+            "ppg": 6.2,
+            "name": "Sean Higgins"
+        },
+        {
+            "id": 1848,
+            "ppg": 1.7,
+            "name": "Mike Higgins"
+        },
+        {
+            "id": 78520,
+            "ppg": 16.8,
+            "name": "Sidney Wicks"
+        },
+        {
+            "id": 2219,
+            "ppg": 2.5,
+            "name": "Jeryl Sasser"
+        },
+        {
+            "id": 76523,
+            "ppg": 4.0,
+            "name": "Harry Davis"
+        },
+        {
+            "id": 78560,
+            "ppg": 3.5,
+            "name": "Milt Williams"
+        },
+        {
+            "id": 765,
+            "ppg": 14.7,
+            "name": "Hersey Hawkins"
+        },
+        {
+            "id": 76966,
+            "ppg": 5.9,
+            "name": "Joey Hassett"
+        },
+        {
+            "id": 203961,
+            "ppg": 1.9,
+            "name": "Eric Moreland"
+        },
+        {
+            "id": 76855,
+            "ppg": 1.2,
+            "name": "Butch Graves"
+        },
+        {
+            "id": 200752,
+            "ppg": 15.8,
+            "name": "Rudy Gay"
+        },
+        {
+            "id": 201180,
+            "ppg": 0.6,
+            "name": "Sun Yue"
+        },
+        {
+            "id": 77,
+            "ppg": 4.5,
+            "name": "Doug Overton"
+        },
+        {
+            "id": 1005,
+            "ppg": 11.8,
+            "name": "Walt Williams"
+        },
+        {
+            "id": 77478,
+            "ppg": 2.1,
+            "name": "Bob Martin"
+        },
+        {
+            "id": 203146,
+            "ppg": 2.7,
+            "name": "Maalik Wayns"
+        },
+        {
+            "id": 77381,
+            "ppg": 5.4,
+            "name": "Grady Lewis"
+        },
+        {
+            "id": 104,
+            "ppg": 11.4,
+            "name": "Benoit Benjamin"
+        },
+        {
+            "id": 2763,
+            "ppg": 3.1,
+            "name": "Lionel Chalmers"
+        },
+        {
+            "id": 203968,
+            "ppg": 0.0,
+            "name": "Jerrelle Benimon"
+        },
+        {
+            "id": 947,
+            "ppg": 26.7,
+            "name": "Allen Iverson"
+        },
+        {
+            "id": 197,
+            "ppg": 6.9,
+            "name": "Scott Burrell"
+        },
+        {
+            "id": 77000,
+            "ppg": 4.0,
+            "name": "Al Henry"
+        },
+        {
+            "id": 77016,
+            "ppg": 2.0,
+            "name": "Matthew Hickey"
+        },
+        {
+            "id": 1600,
+            "ppg": 5.0,
+            "name": "Kornel David"
+        },
+        {
+            "id": 77683,
+            "ppg": 0.9,
+            "name": "Jerry Nagel"
+        },
+        {
+            "id": 76578,
+            "ppg": 1.6,
+            "name": "Fred Diute"
+        },
+        {
+            "id": 78409,
+            "ppg": 9.0,
+            "name": "Charles Vaughn"
+        },
+        {
+            "id": 101120,
+            "ppg": 5.4,
+            "name": "Antoine Wright"
+        },
+        {
+            "id": 76965,
+            "ppg": 12.8,
+            "name": "Clem Haskins"
+        },
+        {
+            "id": 1519,
+            "ppg": 2.7,
+            "name": "John Thomas"
+        },
+        {
+            "id": 200767,
+            "ppg": 5.2,
+            "name": "Josh Boone"
+        },
+        {
+            "id": 76018,
+            "ppg": 3.5,
+            "name": "Henry Akin"
+        },
+        {
+            "id": 77039,
+            "ppg": 5.0,
+            "name": "Doug Holcomb"
+        },
+        {
+            "id": 76117,
+            "ppg": 4.2,
+            "name": "Ed Bartels"
+        },
+        {
+            "id": 76876,
+            "ppg": 7.5,
+            "name": "Sidney Green"
+        },
+        {
+            "id": 78340,
+            "ppg": 5.6,
+            "name": "Mel Thurston"
+        },
+        {
+            "id": 1627787,
+            "ppg": 0.9,
+            "name": "Kyle Wiltjer"
+        },
+        {
+            "id": 2753,
+            "ppg": 9.7,
+            "name": "Delonte West"
+        },
+        {
+            "id": 78145,
+            "ppg": 1.6,
+            "name": "Mark Sibley"
+        },
+        {
+            "id": 692,
+            "ppg": 4.8,
+            "name": "Andrew DeClercq"
+        },
+        {
+            "id": 203461,
+            "ppg": 4.4,
+            "name": "Anthony Bennett"
+        },
+        {
+            "id": 76383,
+            "ppg": 8.5,
+            "name": "Ken Charles"
+        },
+        {
+            "id": 78240,
+            "ppg": 7.8,
+            "name": "Ed Stanczak"
+        },
+        {
+            "id": 78029,
+            "ppg": 2.5,
+            "name": "Jim Rowinski"
+        },
+        {
+            "id": 202390,
+            "ppg": 9.9,
+            "name": "Gary Neal"
+        },
+        {
+            "id": 247,
+            "ppg": 16.1,
+            "name": "Joe Dumars"
+        },
+        {
+            "id": 77330,
+            "ppg": 7.1,
+            "name": "Bo Lamar"
+        },
+        {
+            "id": 2684,
+            "ppg": 2.6,
+            "name": "Melvin Sanders"
+        },
+        {
+            "id": 77356,
+            "ppg": 8.1,
+            "name": "Butch Lee"
+        },
+        {
+            "id": 1627819,
+            "ppg": 6.3,
+            "name": "Isaiah Taylor"
+        },
+        {
+            "id": 78069,
+            "ppg": 1.1,
+            "name": "Frank Schade"
+        },
+        {
+            "id": 77312,
+            "ppg": 1.2,
+            "name": "Wayne Kreklow"
+        },
+        {
+            "id": 78178,
+            "ppg": 11.8,
+            "name": "Adrian Smith"
+        },
+        {
+            "id": 77765,
+            "ppg": 4.4,
+            "name": "Enoch Olsen"
+        },
+        {
+            "id": 76167,
+            "ppg": 1.3,
+            "name": "Joe Binion"
+        },
+        {
+            "id": 76771,
+            "ppg": 7.4,
+            "name": "Mike Gale"
+        },
+        {
+            "id": 2249,
+            "ppg": 1.6,
+            "name": "Jamison Brewer"
+        },
+        {
+            "id": 200758,
+            "ppg": 7.8,
+            "name": "Ronnie Brewer"
+        },
+        {
+            "id": 77088,
+            "ppg": 3.6,
+            "name": "Paul Huston"
+        },
+        {
+            "id": 76085,
+            "ppg": 8.8,
+            "name": "James Bailey"
+        },
+        {
+            "id": 76223,
+            "ppg": 3.2,
+            "name": "Ken Boyd"
+        },
+        {
+            "id": 200801,
+            "ppg": 2.5,
+            "name": "Hassan Adams"
+        },
+        {
+            "id": 77579,
+            "ppg": 7.0,
+            "name": "Chuck Mencel"
+        },
+        {
+            "id": 136,
+            "ppg": 9.1,
+            "name": "P.J. Brown"
+        },
+        {
+            "id": 77153,
+            "ppg": 0.5,
+            "name": "Kannard Johnson"
+        },
+        {
+            "id": 2406,
+            "ppg": 14.1,
+            "name": "Caron Butler"
+        },
+        {
+            "id": 76318,
+            "ppg": 6.1,
+            "name": "Donnie Butcher"
+        },
+        {
+            "id": 77350,
+            "ppg": 6.9,
+            "name": "Dennis Layton"
+        },
+        {
+            "id": 76159,
+            "ppg": 3.5,
+            "name": "Del Beshore"
+        },
+        {
+            "id": 200753,
+            "ppg": 2.1,
+            "name": "Patrick O'Bryant"
+        },
+        {
+            "id": 52,
+            "ppg": 11.0,
+            "name": "Micheal Williams"
+        },
+        {
+            "id": 78309,
+            "ppg": 3.3,
+            "name": "Tom Thacker"
+        },
+        {
+            "id": 203564,
+            "ppg": 1.0,
+            "name": "Kalin Lucas"
+        },
+        {
+            "id": 76888,
+            "ppg": 4.0,
+            "name": "Greg Griffin"
+        },
+        {
+            "id": 2752,
+            "ppg": 3.0,
+            "name": "Sergei Monia"
+        },
+        {
+            "id": 77771,
+            "ppg": 2.9,
+            "name": "Jose Ortiz"
+        },
+        {
+            "id": 2575,
+            "ppg": 4.7,
+            "name": "Luke Walton"
+        },
+        {
+            "id": 77728,
+            "ppg": 8.3,
+            "name": "Johnny Norlander"
+        },
+        {
+            "id": 77775,
+            "ppg": 7.0,
+            "name": "Wally Osterkorn"
+        },
+        {
+            "id": 2592,
+            "ppg": 5.2,
+            "name": "James Jones"
+        },
+        {
+            "id": 76841,
+            "ppg": 1.1,
+            "name": "Orlando Graham"
+        },
+        {
+            "id": 77733,
+            "ppg": 7.5,
+            "name": "Willie Norwood"
+        },
+        {
+            "id": 77130,
+            "ppg": 9.1,
+            "name": "Buck Johnson"
+        },
+        {
+            "id": 202357,
+            "ppg": 7.6,
+            "name": "Nemanja Bjelica"
+        },
+        {
+            "id": 77302,
+            "ppg": 1.4,
+            "name": "Len Kosmalski"
+        },
+        {
+            "id": 2784,
+            "ppg": 2.2,
+            "name": "Luis Flores"
+        },
+        {
+            "id": 1626195,
+            "ppg": 7.3,
+            "name": "Willy Hernangomez"
+        },
+        {
+            "id": 76750,
+            "ppg": 18.9,
+            "name": "Walt Frazier"
+        },
+        {
+            "id": 77858,
+            "ppg": 3.9,
+            "name": "Stan Pietkiewicz"
+        },
+        {
+            "id": 202732,
+            "ppg": 2.0,
+            "name": "DeAndre Liggins"
+        },
+        {
+            "id": 1504,
+            "ppg": 8.2,
+            "name": "Danny Fortson"
+        },
+        {
+            "id": 78445,
+            "ppg": 4.7,
+            "name": "Jamie Waller"
+        },
+        {
+            "id": 77180,
+            "ppg": 3.5,
+            "name": "Bill Jones"
+        },
+        {
+            "id": 1626170,
+            "ppg": 6.1,
+            "name": "Jerian Grant"
+        },
+        {
+            "id": 114,
+            "ppg": 9.0,
+            "name": "Harold Miner"
+        },
+        {
+            "id": 77670,
+            "ppg": 2.4,
+            "name": "Jay Murphy"
+        },
+        {
+            "id": 1814,
+            "ppg": 5.1,
+            "name": "Chris Smith"
+        },
+        {
+            "id": 1479,
+            "ppg": 5.0,
+            "name": "Mike Brown"
+        },
+        {
+            "id": 77829,
+            "ppg": 4.4,
+            "name": "Sam Pellom"
+        },
+        {
+            "id": 76387,
+            "ppg": 7.1,
+            "name": "Derrick Chievous"
+        },
+        {
+            "id": 81,
+            "ppg": 7.4,
+            "name": "Jeff Grayer"
+        },
+        {
+            "id": 76335,
+            "ppg": 11.9,
+            "name": "Ernie Calverley"
+        },
+        {
+            "id": 78396,
+            "ppg": 3.5,
+            "name": "Ron Valentine"
+        },
+        {
+            "id": 76960,
+            "ppg": 7.0,
+            "name": "Steve Harris"
+        },
+        {
+            "id": 1628410,
+            "ppg": 6.2,
+            "name": "Edmond Sumner"
+        },
+        {
+            "id": 1627879,
+            "ppg": 3.3,
+            "name": "Nicolas Laprovittola"
+        },
+        {
+            "id": 78432,
+            "ppg": 12.6,
+            "name": "Neal Walk"
+        },
+        {
+            "id": 77353,
+            "ppg": 9.5,
+            "name": "Allen Leavell"
+        },
+        {
+            "id": 2045,
+            "ppg": 11.1,
+            "name": "Hedo Turkoglu"
+        },
+        {
+            "id": 2557,
+            "ppg": 9.3,
+            "name": "Luke Ridnour"
+        },
+        {
+            "id": 1063,
+            "ppg": 2.9,
+            "name": "Carl Thomas"
+        },
+        {
+            "id": 76054,
+            "ppg": 18.8,
+            "name": "Nate Archibald"
+        },
+        {
+            "id": 899,
+            "ppg": 15.2,
+            "name": "Mark Price"
+        },
+        {
+            "id": 76895,
+            "ppg": 8.9,
+            "name": "Bob Gross"
+        },
+        {
+            "id": 133,
+            "ppg": 12.5,
+            "name": "David Wesley"
+        },
+        {
+            "id": 202378,
+            "ppg": 1.9,
+            "name": "Willie Warren"
+        },
+        {
+            "id": 87,
+            "ppg": 9.8,
+            "name": "Dikembe Mutombo"
+        },
+        {
+            "id": 78442,
+            "ppg": 7.0,
+            "name": "Wally Walker"
+        },
+        {
+            "id": 76664,
+            "ppg": 3.6,
+            "name": "Bo Ellis"
+        },
+        {
+            "id": 2051,
+            "ppg": 5.6,
+            "name": "Donnell Harvey"
+        },
+        {
+            "id": 76778,
+            "ppg": 1.8,
+            "name": "Earl Gardner"
+        },
+        {
+            "id": 201167,
+            "ppg": 10.8,
+            "name": "Arron Afflalo"
+        },
+        {
+            "id": 1886,
+            "ppg": 5.5,
+            "name": "Jonathan Bender"
+        },
+        {
+            "id": 78543,
+            "ppg": 1.3,
+            "name": "Cliff Williams"
+        },
+        {
+            "id": 77065,
+            "ppg": 6.0,
+            "name": "Brian Howard"
+        },
+        {
+            "id": 78332,
+            "ppg": 8.9,
+            "name": "Paul Thompson"
+        },
+        {
+            "id": 78314,
+            "ppg": 2.8,
+            "name": "David Thirdkill"
+        },
+        {
+            "id": 78237,
+            "ppg": 5.1,
+            "name": "Kevin Stacom"
+        },
+        {
+            "id": 78434,
+            "ppg": 7.0,
+            "name": "Brady Walker"
+        },
+        {
+            "id": 1630575,
+            "ppg": 0.5,
+            "name": "Scottie Lewis"
+        },
+        {
+            "id": 77908,
+            "ppg": 1.0,
+            "name": "Ray Ramsey"
+        },
+        {
+            "id": 1132,
+            "ppg": 0.0,
+            "name": "Larry Sykes"
+        },
+        {
+            "id": 1907,
+            "ppg": 6.9,
+            "name": "Vonteego Cummings"
+        },
+        {
+            "id": 1628421,
+            "ppg": 6.1,
+            "name": "Devin Robinson"
+        },
+        {
+            "id": 77422,
+            "ppg": 2.9,
+            "name": "Jim Luisi"
+        },
+        {
+            "id": 767,
+            "ppg": 12.7,
+            "name": "Terry Catledge"
+        },
+        {
+            "id": 203521,
+            "ppg": 5.2,
+            "name": "Matthew Dellavedova"
+        },
+        {
+            "id": 76507,
+            "ppg": 8.1,
+            "name": "Jimmy Darden"
+        },
+        {
+            "id": 361,
+            "ppg": 14.2,
+            "name": "Clifford Robinson"
+        },
+        {
+            "id": 1630233,
+            "ppg": 3.7,
+            "name": "Nathan Knight"
+        },
+        {
+            "id": 77412,
+            "ppg": 17.6,
+            "name": "Bob Love"
+        },
+        {
+            "id": 77369,
+            "ppg": 3.2,
+            "name": "George Lehmann"
+        },
+        {
+            "id": 78202,
+            "ppg": 12.6,
+            "name": "Bingo Smith"
+        },
+        {
+            "id": 203102,
+            "ppg": 3.6,
+            "name": "Arnett Moultrie"
+        },
+        {
+            "id": 1717,
+            "ppg": 20.7,
+            "name": "Dirk Nowitzki"
+        },
+        {
+            "id": 203945,
+            "ppg": 0.8,
+            "name": "Alex Kirk"
+        },
+        {
+            "id": 201964,
+            "ppg": 3.2,
+            "name": "Victor Claver"
+        },
+        {
+            "id": 673,
+            "ppg": 7.8,
+            "name": "Alan Henderson"
+        },
+        {
+            "id": 203091,
+            "ppg": 0.0,
+            "name": "Royce White"
+        },
+        {
+            "id": 2749,
+            "ppg": 11.3,
+            "name": "Jameer Nelson"
+        },
+        {
+            "id": 204179,
+            "ppg": 5.5,
+            "name": "Omari Johnson"
+        },
+        {
+            "id": 77523,
+            "ppg": 5.3,
+            "name": "Jim McDaniels"
+        },
+        {
+            "id": 78048,
+            "ppg": 3.0,
+            "name": "Walker Russell"
+        },
+        {
+            "id": 375,
+            "ppg": 16.7,
+            "name": "Isaiah Rider"
+        },
+        {
+            "id": 1906,
+            "ppg": 1.6,
+            "name": "Tim James"
+        },
+        {
+            "id": 23,
+            "ppg": 7.3,
+            "name": "Dennis Rodman"
+        },
+        {
+            "id": 101121,
+            "ppg": 5.9,
+            "name": "Joey Graham"
+        },
+        {
+            "id": 78386,
+            "ppg": 8.5,
+            "name": "Mel Turpin"
+        },
+        {
+            "id": 201965,
+            "ppg": 2.9,
+            "name": "Jeff Ayres"
+        },
+        {
+            "id": 77342,
+            "ppg": 4.5,
+            "name": "Dave Lattin"
+        },
+        {
+            "id": 78427,
+            "ppg": 2.3,
+            "name": "Clint Wager"
+        },
+        {
+            "id": 78415,
+            "ppg": 3.5,
+            "name": "Gundars Vetra"
+        },
+        {
+            "id": 1626205,
+            "ppg": 1.5,
+            "name": "Vincent Hunter"
+        },
+        {
+            "id": 78132,
+            "ppg": 4.1,
+            "name": "Craig Shelton"
+        },
+        {
+            "id": 77809,
+            "ppg": 6.1,
+            "name": "Stan Patrick"
+        },
+        {
+            "id": 76972,
+            "ppg": 16.5,
+            "name": "Connie Hawkins"
+        },
+        {
+            "id": 932,
+            "ppg": 7.4,
+            "name": "Oliver Miller"
+        },
+        {
+            "id": 77010,
+            "ppg": 9.8,
+            "name": "Keith Herron"
+        },
+        {
+            "id": 1594,
+            "ppg": 3.2,
+            "name": "Rick Brunson"
+        },
+        {
+            "id": 78095,
+            "ppg": 4.9,
+            "name": "Alvin Scott"
+        },
+        {
+            "id": 78321,
+            "ppg": 1.4,
+            "name": "Joe Thomas"
+        },
+        {
+            "id": 1535,
+            "ppg": 1.5,
+            "name": "Jason Lawson"
+        },
+        {
+            "id": 2798,
+            "ppg": 2.8,
+            "name": "Horace Jenkins"
+        },
+        {
+            "id": 243,
+            "ppg": 7.4,
+            "name": "Aaron McKie"
+        },
+        {
+            "id": 1905,
+            "ppg": 11.8,
+            "name": "Andrei Kirilenko"
+        },
+        {
+            "id": 77584,
+            "ppg": 12.7,
+            "name": "Tom Meschery"
+        },
+        {
+            "id": 77966,
+            "ppg": 9.9,
+            "name": "Mike Riordan"
+        },
+        {
+            "id": 76462,
+            "ppg": 17.6,
+            "name": "Dave Cowens"
+        },
+        {
+            "id": 76582,
+            "ppg": 8.4,
+            "name": "Bob Doll"
+        },
+        {
+            "id": 418,
+            "ppg": 4.9,
+            "name": "Scott Brooks"
+        },
+        {
+            "id": 2605,
+            "ppg": 7.9,
+            "name": "Marquis Daniels"
+        },
+        {
+            "id": 78266,
+            "ppg": 4.4,
+            "name": "Art Stolkey"
+        },
+        {
+            "id": 76854,
+            "ppg": 2.0,
+            "name": "Don Grate"
+        },
+        {
+            "id": 78378,
+            "ppg": 4.7,
+            "name": "Elston Turner"
+        },
+        {
+            "id": 76278,
+            "ppg": 0.0,
+            "name": "Leon Brown"
+        },
+        {
+            "id": 202148,
+            "ppg": 2.2,
+            "name": "Mickell Gladness"
+        },
+        {
+            "id": 1874,
+            "ppg": 2.0,
+            "name": "Jeff Sanders"
+        },
+        {
+            "id": 76111,
+            "ppg": 5.1,
+            "name": "John Barr"
+        },
+        {
+            "id": 200822,
+            "ppg": 3.0,
+            "name": "Pops Mensah-Bonsu"
+        },
+        {
+            "id": 77824,
+            "ppg": 5.4,
+            "name": "Mel Payton"
+        },
+        {
+            "id": 77850,
+            "ppg": 4.1,
+            "name": "Jack Phelan"
+        },
+        {
+            "id": 1719,
+            "ppg": 12.1,
+            "name": "Bonzi Wells"
+        },
+        {
+            "id": 77834,
+            "ppg": 6.1,
+            "name": "Warren Perkins"
+        },
+        {
+            "id": 78329,
+            "ppg": 0.9,
+            "name": "Kevin Thompson"
+        },
+        {
+            "id": 1628387,
+            "ppg": 0.9,
+            "name": "Ike Anigbogu"
+        },
+        {
+            "id": 1626187,
+            "ppg": 2.1,
+            "name": "Michael Frazier II"
+        },
+        {
+            "id": 202329,
+            "ppg": 7.5,
+            "name": "Al-Farouq Aminu"
+        },
+        {
+            "id": 201149,
+            "ppg": 8.8,
+            "name": "Joakim Noah"
+        },
+        {
+            "id": 76105,
+            "ppg": 8.8,
+            "name": "Jim Barnes"
+        },
+        {
+            "id": 88,
+            "ppg": 1.9,
+            "name": "Steve Scheffler"
+        },
+        {
+            "id": 1926,
+            "ppg": 5.0,
+            "name": "Ryan Robertson"
+        },
+        {
+            "id": 201160,
+            "ppg": 6.1,
+            "name": "Jason Smith"
+        },
+        {
+            "id": 201166,
+            "ppg": 9.7,
+            "name": "Aaron Brooks"
+        },
+        {
+            "id": 1943,
+            "ppg": 1.3,
+            "name": "Wayne Turner"
+        },
+        {
+            "id": 76093,
+            "ppg": 11.3,
+            "name": "Gene Banks"
+        },
+        {
+            "id": 76211,
+            "ppg": 6.5,
+            "name": "Jim Bostic"
+        },
+        {
+            "id": 76320,
+            "ppg": 1.4,
+            "name": "Greg Butler"
+        },
+        {
+            "id": 76090,
+            "ppg": 1.1,
+            "name": "Cedric Ball"
+        },
+        {
+            "id": 76124,
+            "ppg": 3.2,
+            "name": "Dave Batton"
+        },
+        {
+            "id": 2414,
+            "ppg": 3.1,
+            "name": "Curtis Borchardt"
+        },
+        {
+            "id": 202345,
+            "ppg": 3.8,
+            "name": "Damion James"
+        },
+        {
+            "id": 76409,
+            "ppg": 2.8,
+            "name": "Ben Clyde"
+        },
+        {
+            "id": 76270,
+            "ppg": 1.3,
+            "name": "Darrell Brown"
+        },
+        {
+            "id": 77546,
+            "ppg": 9.4,
+            "name": "Horace McKinney"
+        },
+        {
+            "id": 76593,
+            "ppg": 0.0,
+            "name": "Bill Downey"
+        },
+        {
+            "id": 1800,
+            "ppg": 6.6,
+            "name": "Damon Jones"
+        },
+        {
+            "id": 201933,
+            "ppg": 19.0,
+            "name": "Blake Griffin"
+        },
+        {
+            "id": 76517,
+            "ppg": 1.9,
+            "name": "Brian Davis"
+        },
+        {
+            "id": 2218,
+            "ppg": 1.2,
+            "name": "Joseph Forte"
+        },
+        {
+            "id": 77509,
+            "ppg": 3.5,
+            "name": "Dwayne McClain"
+        },
+        {
+            "id": 77447,
+            "ppg": 5.9,
+            "name": "Lionel Malamed"
+        },
+        {
+            "id": 201629,
+            "ppg": 1.4,
+            "name": "Othello Hunter"
+        },
+        {
+            "id": 77817,
+            "ppg": 8.5,
+            "name": "Billy Paultz"
+        },
+        {
+            "id": 78368,
+            "ppg": 5.7,
+            "name": "Dick Triptow"
+        },
+        {
+            "id": 77211,
+            "ppg": 2.3,
+            "name": "Johnny Jorgensen"
+        },
+        {
+            "id": 77305,
+            "ppg": 2.2,
+            "name": "Tom Kozelko"
+        },
+        {
+            "id": 1629734,
+            "ppg": 1.0,
+            "name": "Kyle Alexander"
+        },
+        {
+            "id": 101154,
+            "ppg": 10.1,
+            "name": "Andray Blatche"
+        },
+        {
+            "id": 1626253,
+            "ppg": 3.1,
+            "name": "Axel Toupane"
+        },
+        {
+            "id": 1749,
+            "ppg": 16.0,
+            "name": "Cuttino Mobley"
+        },
+        {
+            "id": 2048,
+            "ppg": 7.2,
+            "name": "Jamaal Magloire"
+        },
+        {
+            "id": 2067,
+            "ppg": 7.5,
+            "name": "Eddie House"
+        },
+        {
+            "id": 134,
+            "ppg": 17.9,
+            "name": "Kevin Johnson"
+        },
+        {
+            "id": 1626266,
+            "ppg": 0.0,
+            "name": "JJ O'Brien"
+        },
+        {
+            "id": 77957,
+            "ppg": 1.8,
+            "name": "Jackie Ridgle"
+        },
+        {
+            "id": 76782,
+            "ppg": 9.4,
+            "name": "Winston Garland"
+        },
+        {
+            "id": 1043,
+            "ppg": 1.8,
+            "name": "Amal McCaskill"
+        },
+        {
+            "id": 202347,
+            "ppg": 4.5,
+            "name": "Quincy Pondexter"
+        },
+        {
+            "id": 1627762,
+            "ppg": 1.7,
+            "name": "Joel Bolomboy"
+        },
+        {
+            "id": 78651,
+            "ppg": 9.2,
+            "name": "John Tresvant"
+        },
+        {
+            "id": 2432,
+            "ppg": 1.2,
+            "name": "Tito Maddox"
+        },
+        {
+            "id": 202363,
+            "ppg": 2.9,
+            "name": "Jarvis Varnado"
+        }
+    ],
+    "id_map": {
+        "77715": 0,
+        "912": 1,
+        "2770": 2,
+        "77082": 3,
+        "76956": 4,
+        "2402": 5,
+        "346": 6,
+        "371": 7,
+        "77499": 8,
+        "2212": 9,
+        "76258": 10,
+        "1630624": 11,
+        "76415": 12,
+        "1626184": 13,
+        "67": 14,
+        "77174": 15,
+        "1629600": 16,
+        "78642": 17,
+        "78105": 18,
+        "1628416": 19,
+        "77918": 20,
+        "2124": 21,
+        "78133": 22,
+        "202729": 23,
+        "1745": 24,
+        "1755": 25,
+        "2030": 26,
+        "77549": 27,
+        "2767": 28,
+        "913": 29,
+        "1575": 30,
+        "78100": 31,
+        "209": 32,
+        "101150": 33,
+        "911": 34,
+        "906": 35,
+        "77375": 36,
+        "77154": 37,
+        "78162": 38,
+        "1627854": 39,
+        "1629755": 40,
+        "76793": 41,
+        "708": 42,
+        "76584": 43,
+        "78371": 44,
+        "204038": 45,
+        "101178": 46,
+        "1542": 47,
+        "201186": 48,
+        "78397": 49,
+        "2416": 50,
+        "2574": 51,
+        "78541": 52,
+        "1629056": 53,
+        "203122": 54,
+        "78035": 55,
+        "200811": 56,
+        "77687": 57,
+        "202388": 58,
+        "1631320": 59,
+        "1034": 60,
+        "715": 61,
+        "76145": 62,
+        "76694": 63,
+        "77171": 64,
+        "680": 65,
+        "201157": 66,
+        "78136": 67,
+        "76191": 68,
+        "76168": 69,
+        "1000": 70,
+        "77024": 71,
+        "203093": 72,
+        "77003": 73,
+        "76794": 74,
+        "76346": 75,
+        "77222": 76,
+        "101158": 77,
+        "1629648": 78,
+        "77149": 79,
+        "1627215": 80,
+        "77770": 81,
+        "77939": 82,
+        "2410": 83,
+        "77112": 84,
+        "77859": 85,
+        "101184": 86,
+        "1101": 87,
+        "76570": 88,
+        "2419": 89,
+        "1627740": 90,
+        "1628443": 91,
+        "77843": 92,
+        "1846": 93,
+        "201609": 94,
+        "201192": 95,
+        "202705": 96,
+        "722": 97,
+        "2398": 98,
+        "984": 99,
+        "925": 100,
+        "1848": 101,
+        "78520": 102,
+        "2219": 103,
+        "76523": 104,
+        "78560": 105,
+        "765": 106,
+        "76966": 107,
+        "203961": 108,
+        "76855": 109,
+        "200752": 110,
+        "201180": 111,
+        "77": 112,
+        "1005": 113,
+        "77478": 114,
+        "203146": 115,
+        "77381": 116,
+        "104": 117,
+        "2763": 118,
+        "203968": 119,
+        "947": 120,
+        "197": 121,
+        "77000": 122,
+        "77016": 123,
+        "1600": 124,
+        "77683": 125,
+        "76578": 126,
+        "78409": 127,
+        "101120": 128,
+        "76965": 129,
+        "1519": 130,
+        "200767": 131,
+        "76018": 132,
+        "77039": 133,
+        "76117": 134,
+        "76876": 135,
+        "78340": 136,
+        "1627787": 137,
+        "2753": 138,
+        "78145": 139,
+        "692": 140,
+        "203461": 141,
+        "76383": 142,
+        "78240": 143,
+        "78029": 144,
+        "202390": 145,
+        "247": 146,
+        "77330": 147,
+        "2684": 148,
+        "77356": 149,
+        "1627819": 150,
+        "78069": 151,
+        "77312": 152,
+        "78178": 153,
+        "77765": 154,
+        "76167": 155,
+        "76771": 156,
+        "2249": 157,
+        "200758": 158,
+        "77088": 159,
+        "76085": 160,
+        "76223": 161,
+        "200801": 162,
+        "77579": 163,
+        "136": 164,
+        "77153": 165,
+        "2406": 166,
+        "76318": 167,
+        "77350": 168,
+        "76159": 169,
+        "200753": 170,
+        "52": 171,
+        "78309": 172,
+        "203564": 173,
+        "76888": 174,
+        "2752": 175,
+        "77771": 176,
+        "2575": 177,
+        "77728": 178,
+        "77775": 179,
+        "2592": 180,
+        "76841": 181,
+        "77733": 182,
+        "77130": 183,
+        "202357": 184,
+        "77302": 185,
+        "2784": 186,
+        "1626195": 187,
+        "76750": 188,
+        "77858": 189,
+        "202732": 190,
+        "1504": 191,
+        "78445": 192,
+        "77180": 193,
+        "1626170": 194,
+        "114": 195,
+        "77670": 196,
+        "1814": 197,
+        "1479": 198,
+        "77829": 199,
+        "76387": 200,
+        "81": 201,
+        "76335": 202,
+        "78396": 203,
+        "76960": 204,
+        "1628410": 205,
+        "1627879": 206,
+        "78432": 207,
+        "77353": 208,
+        "2045": 209,
+        "2557": 210,
+        "1063": 211,
+        "76054": 212,
+        "899": 213,
+        "76895": 214,
+        "133": 215,
+        "202378": 216,
+        "87": 217,
+        "78442": 218,
+        "76664": 219,
+        "2051": 220,
+        "76778": 221,
+        "201167": 222,
+        "1886": 223,
+        "78543": 224,
+        "77065": 225,
+        "78332": 226,
+        "78314": 227,
+        "78237": 228,
+        "78434": 229,
+        "1630575": 230,
+        "77908": 231,
+        "1132": 232,
+        "1907": 233,
+        "1628421": 234,
+        "77422": 235,
+        "767": 236,
+        "203521": 237,
+        "76507": 238,
+        "361": 239,
+        "1630233": 240,
+        "77412": 241,
+        "77369": 242,
+        "78202": 243,
+        "203102": 244,
+        "1717": 245,
+        "203945": 246,
+        "201964": 247,
+        "673": 248,
+        "203091": 249,
+        "2749": 250,
+        "204179": 251,
+        "77523": 252,
+        "78048": 253,
+        "375": 254,
+        "1906": 255,
+        "23": 256,
+        "101121": 257,
+        "78386": 258,
+        "201965": 259,
+        "77342": 260,
+        "78427": 261,
+        "78415": 262,
+        "1626205": 263,
+        "78132": 264,
+        "77809": 265,
+        "76972": 266,
+        "932": 267,
+        "77010": 268,
+        "1594": 269,
+        "78095": 270,
+        "78321": 271,
+        "1535": 272,
+        "2798": 273,
+        "243": 274,
+        "1905": 275,
+        "77584": 276,
+        "77966": 277,
+        "76462": 278,
+        "76582": 279,
+        "418": 280,
+        "2605": 281,
+        "78266": 282,
+        "76854": 283,
+        "78378": 284,
+        "76278": 285,
+        "202148": 286,
+        "1874": 287,
+        "76111": 288,
+        "200822": 289,
+        "77824": 290,
+        "77850": 291,
+        "1719": 292,
+        "77834": 293,
+        "78329": 294,
+        "1628387": 295,
+        "1626187": 296,
+        "202329": 297,
+        "201149": 298,
+        "76105": 299,
+        "88": 300,
+        "1926": 301,
+        "201160": 302,
+        "201166": 303,
+        "1943": 304,
+        "76093": 305,
+        "76211": 306,
+        "76320": 307,
+        "76090": 308,
+        "76124": 309,
+        "2414": 310,
+        "202345": 311,
+        "76409": 312,
+        "76270": 313,
+        "77546": 314,
+        "76593": 315,
+        "1800": 316,
+        "201933": 317,
+        "76517": 318,
+        "2218": 319,
+        "77509": 320,
+        "77447": 321,
+        "201629": 322,
+        "77817": 323,
+        "78368": 324,
+        "77211": 325,
+        "77305": 326,
+        "1629734": 327,
+        "101154": 328,
+        "1626253": 329,
+        "1749": 330,
+        "2048": 331,
+        "2067": 332,
+        "134": 333,
+        "1626266": 334,
+        "77957": 335,
+        "76782": 336,
+        "1043": 337,
+        "202347": 338,
+        "1627762": 339,
+        "78651": 340,
+        "2432": 341,
+        "202363": 342
+    }
+}
