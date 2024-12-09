@@ -1,1 +1,1 @@
-# nba-survival-game
+# nba-ppg-game
