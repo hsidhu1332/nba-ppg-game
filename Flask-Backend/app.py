@@ -103,4 +103,4 @@ if __name__ == "__main__":
     #                                 ^^^^
     #              You can replace this number with any valid port
    
-    app.run(port=port, debug=True)
+    app.run(host='0.0.0.0', port=port, debug=True)

@@ -82,7 +82,9 @@ button:focus-visible {
 }
 
 .homepage img {
-  display:inline-block;
+  display: inline-block;
+  width: auto; /* or a fixed width */
+  height: auto;
 }
 
 .text_box input {
