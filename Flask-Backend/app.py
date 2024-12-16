@@ -1,12 +1,23 @@
-from flask import Flask, jsonify, request, send_file
+from flask import Flask, jsonify, request, send_file, abort
 from flask_cors import CORS
 import random
 #from random_player_ppg_async import main as get_players
 import json
+from dotenv import load_dotenv
+import os
 
 app = Flask(__name__)
 
+load_dotenv()
+
 CORS(app)
+
+API_SECRET=os.getenv("API_SECRET")
+
+@app.before_request
+def validate_token():
+    if request.path.startswith('/api/') and request.headers.get('X-API-Token') != API_SECRET:
+        abort(403) 
 
 # @app.route('/api/start', methods=['GET'])
 # def start():

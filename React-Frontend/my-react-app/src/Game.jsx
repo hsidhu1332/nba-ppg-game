@@ -5,6 +5,7 @@ import Input from './Input.jsx'
 import ScoreCheck from './ScoreCheck.jsx'
 import {useState, useEffect} from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import { API_TOKEN } from './config';
 
 
 function Game() {
@@ -28,22 +29,42 @@ function Game() {
     async function fetchPlayers() {
       try {
         if (listType === 'active') {
-          const activeGet = await fetch('http://localhost:7000/api/active_players')
+          const activeGet = await fetch('/api/active_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const activeData = await activeGet.json();
           setRandomPlayer(activeData);
         }
         else if (listType === 'inactive') {
-          const inactiveGet = await fetch('http://localhost:7000/api/inactive_players')
+          const inactiveGet = await fetch('/api/inactive_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const inactiveData = await inactiveGet.json();
           setRandomPlayer(inactiveData);
         }
         else if (listType === 'prolific') {
-          const prolificGet = await fetch('http://localhost:7000/api/prolific_scorers')
+          const prolificGet = await fetch('/api/prolific_scorers', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const prolificData = await prolificGet.json()
           setRandomPlayer(prolificData);
         }
         else if (listType === 'all') {
-          const allGet = await fetch('http://localhost:7000/api/all_players')
+          const allGet = await fetch('/api/all_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const allData = await allGet.json()
           setRandomPlayer(allData);
         }
@@ -70,8 +91,19 @@ function Game() {
 
   async function fetchPlayerImage(pid) {
     try {
-      const imageUrl = `http://localhost:7000/api/image/${pid}`;
-      setPlayerImage(imageUrl);
+      const imageUrl = `/api/image/${pid}`;
+          const response = await fetch(imageUrl, {
+            method: 'GET',
+            headers: {
+              'X-API-Token': API_TOKEN,  // Include the API token in the headers
+            },
+          });
+
+          const imageBlob = await response.blob();
+          const imageObjectURL = URL.createObjectURL(imageBlob);
+
+
+          setPlayerImage(imageObjectURL);
     }
     catch (error) {
       console.error('Error fetching image', error)
@@ -119,22 +151,42 @@ function Game() {
     async function fetchPlayers() {
       try {
         if (listType === 'active') {
-          const activeGet = await fetch('http://localhost:7000/api/active_players')
+          const activeGet = await fetch('/api/active_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const activeData = await activeGet.json();
           setRandomPlayer(activeData);
         }
         else if (listType === 'inactive') {
-          const inactiveGet = await fetch('http://localhost:7000/api/inactive_players')
+          const inactiveGet = await fetch('/api/inactive_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const inactiveData = await inactiveGet.json();
           setRandomPlayer(inactiveData);
         }
         else if (listType === 'prolific') {
-          const prolificGet = await fetch('http://localhost:7000/api/prolific_scorers')
+          const prolificGet = await fetch('/api/prolific_scorers', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const prolificData = await prolificGet.json()
           setRandomPlayer(prolificData);
         }
         else if (listType === 'all') {
-          const allGet = await fetch('http://localhost:7000/api/all_players')
+          const allGet = await fetch('/api/all_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const allData = await allGet.json()
           setRandomPlayer(allData);
         }
@@ -163,22 +215,42 @@ function Game() {
     async function fetchPlayers() {
       try {
         if (listType === 'active') {
-          const activeGet = await fetch('http://localhost:7000/api/active_players')
+          const activeGet = await fetch('/api/active_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const activeData = await activeGet.json();
           setRandomPlayer(activeData);
         }
         else if (listType === 'inactive') {
-          const inactiveGet = await fetch('http://localhost:7000/api/inactive_players')
+          const inactiveGet = await fetch('/api/inactive_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const inactiveData = await inactiveGet.json();
           setRandomPlayer(inactiveData);
         }
         else if (listType === 'prolific') {
-          const prolificGet = await fetch('http://localhost:7000/api/prolific_scorers')
+          const prolificGet = await fetch('/api/prolific_scorers', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const prolificData = await prolificGet.json()
           setRandomPlayer(prolificData);
         }
         else if (listType === 'all') {
-          const allGet = await fetch('http://localhost:7000/api/all_players')
+          const allGet = await fetch('/api/all_players', {
+            method: 'GET',
+            headers: {
+            'X-API-Token': API_TOKEN,
+          },
+          })
           const allData = await allGet.json()
           setRandomPlayer(allData);
         }

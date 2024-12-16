@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import {useState, useEffect} from 'react';
+import { API_TOKEN } from './config';
 
 function Homepage() {
     const [playerImage, setPlayerImage] = useState('');
@@ -7,7 +8,12 @@ function Homepage() {
     useEffect(() => {
         async function fetchPlayers() {
           try {
-            const activeGet = await fetch('http://localhost:7000/api/active_players')
+            const activeGet = await fetch('/api/active_players', {
+              method: 'GET',
+              headers: {
+              'X-API-Token': API_TOKEN,
+            },
+            })
             const activeData = await activeGet.json();
             setRandomPlayer(activeData);
           }
@@ -31,8 +37,19 @@ function Homepage() {
 
       async function fetchPlayerImage(pid) {
         try {
-          const imageUrl = `http://localhost:7000/api/image/${pid}`;
-          setPlayerImage(imageUrl);
+          const imageUrl = `/api/image/${pid}`;
+          const response = await fetch(imageUrl, {
+            method: 'GET',
+            headers: {
+              'X-API-Token': API_TOKEN,  // Include the API token in the headers
+            },
+          });
+
+          const imageBlob = await response.blob();
+          const imageObjectURL = URL.createObjectURL(imageBlob);
+
+
+          setPlayerImage(imageObjectURL);
         }
         catch (error) {
           console.error('Error fetching image', error)
