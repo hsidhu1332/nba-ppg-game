@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 load_dotenv()
 
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "https://nba.hspro.me", "allow_headers": ["X-API-Token"]}})
 
 API_SECRET=os.getenv("API_SECRET")
 
